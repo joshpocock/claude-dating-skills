@@ -32,7 +32,7 @@ If you only have one or two photos, still give feedback, but say plainly that mo
 
 ## Step 2: Score each photo on these factors
 
-Use a simple Strong / OK / Weak for each. Keep the reasoning concrete ("face is in shadow from the cap brim", not "lighting could be better").
+Use a simple Strong / OK / Weak for each, then give each photo an overall **photo score out of 10** (how well the photo works on a dating app: light, framing, clarity, signal; never a rating of how attractive the person is) plus one concrete optimization that would raise it (crop, retake in daylight, remove sunglasses, etc.). Keep the reasoning concrete ("face is in shadow from the cap brim", not "lighting could be better").
 
 | Factor | What good looks like |
 |---|---|
@@ -84,4 +84,4 @@ Suggest 2 to 4 specific, easy photos that would fill the gaps you found, with pr
 
 ## Tone
 
-Direct, warm, specific. No flattery inflation: if a photo is weak, say so kindly and say how to fix it. Never use scores out of 10 for the person. Do not invent "statistics" about swipe rates; you can say a factor is "widely recommended" but do not cite numbers you do not have.
+Direct, warm, specific. No flattery inflation: if a photo is weak, say so kindly and say how to fix it. Photo scores out of 10 rate the photo, never the person; say so once in the output. Do not invent "statistics" about swipe rates; you can say a factor is "widely recommended" but do not cite numbers you do not have.
