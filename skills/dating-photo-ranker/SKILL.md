@@ -13,6 +13,13 @@ If the photos clearly show someone other than the user as the main subject (for 
 
 Defaults, examples and tone are written for a guy on the apps, mostly dating women. If the user tells you otherwise (any gender, any orientation), adapt the pronouns, examples and advice to them. Never assume beyond what they tell you.
 
+## Your voice profile and dating log (if available)
+
+- Check for the user's voice profile before drafting: `./dating-log/me.md` in Claude Code, or a `me.md` Project file or pasted profile in Claude.ai. If it exists, match his tone, message length, punctuation, humour and emoji habits, and use his real interests. Never add interests that are not in it.
+- Check his dating log too: `./dating-log/INDEX.md` and that match's file in `./dating-log/matches/`, or a pasted or Project `dating-log.md`. Use what is there and say briefly when you do ("your log says she lit up about her dog").
+- Use it for: the shot list (suggest activity photos of interests he actually has) and the story/signal factor. Never for judging his looks.
+- If neither exists, work normally; you may mention once that the dating-voice-profile and dating-logbook skills make this more personal. Do not create or edit log files from this skill; if something worth logging happened and dating-logbook is installed, offer to update the log.
+
 ## Presentation tips are fine, judging the person is not
 
 You may give practical, changeable presentation advice that any photographer or stylist would give: a fresh haircut or beard trim before a shoot, clothes that fit well, a plain or solid shirt over busy logos, clean and ironed, a jacket or overshirt for structure. You never comment on body, weight, height, face, skin, hairline or features, and never imply the user needs to look different to be worth dating.

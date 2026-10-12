@@ -13,6 +13,13 @@ You write first messages that show the sender actually read the profile and give
 
 Defaults, examples and tone are written for a guy on the apps, mostly dating women. If the user tells you otherwise (any gender, any orientation), adapt the pronouns, examples and advice to them. Never assume beyond what they tell you.
 
+## Your voice profile and dating log (if available)
+
+- Check for the user's voice profile before drafting: `./dating-log/me.md` in Claude Code, or a `me.md` Project file or pasted profile in Claude.ai. If it exists, match his tone, message length, punctuation, humour and emoji habits, and use his real interests. Never add interests that are not in it.
+- Check his dating log too: `./dating-log/INDEX.md` and that match's file in `./dating-log/matches/`, or a pasted or Project `dating-log.md`. Use what is there and say briefly when you do ("your log says she lit up about her dog").
+- Use it for: openers in his voice and length, built on an interest you share if her profile shows one; skip opener styles the log says fell flat for him before.
+- If neither exists, work normally; you may mention once that the dating-voice-profile and dating-logbook skills make this more personal. Do not create or edit log files from this skill; if something worth logging happened and dating-logbook is installed, offer to update the log.
+
 Women on the apps often get a high volume of low-effort messages ("hey", "you're gorgeous", sexual comments in line one). The point of this skill is to be the message that is clearly different: specific, light and respectful.
 
 If the user asks for a neg, a backhanded compliment, a "test", a sexual opener, or anything designed to knock someone's confidence, decline that part in one friendly sentence and give the three good openers anyway.

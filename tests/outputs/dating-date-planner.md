@@ -7,32 +7,37 @@
 
 ## Output
 
-## The plan
-**What:** A slow Sunday wander with coffee, a bookshop, and a walk. It's basically her "ideal Sunday".
-**Where:** Pick a walkable central neighbourhood near her with (1) an independent coffee shop that has good pastries or vegetarian snacks and (2) an independent or second-hand bookshop within about a 5–10 minute walk. Choose places you know or have checked. Confirm Sunday opening hours, since a lot of indie bookshops open late or close early on Sundays.
-**When:** Sunday, 1:00pm. That leaves the morning free and keeps it relaxed.
-**Why it fits:** It's built on her own words ("wandering somewhere with good coffee"), plus her love of bookshops. Walking suits you too.
-**Budget:** Two coffees and a shared pastry is about $15–20. That leaves about $20 for a small bookshop moment, like each of you picking a cheap used book for the other.
-**Flow (60–90 min):** Coffee first, sitting down so you can actually talk. Then walk to the bookshop and browse together. Asking "what would you pick for me?" is an easy, fun prompt.
-**Extend option:** If it's going well, take a short walk through a nearby park or along a nice street, or stop for a second drink or an ice cream. Everything is alcohol-free and vegetarian-friendly by default.
+I can't look up live venues here, so I won't make up names. Below is the plan using types of places. Send me 2-3 real bookshops or cafés near her (from Google Maps or places you know) and I'll pick the best one and put its name in the invite.
 
-**On the photography:** Leave the big camera at home for date one. Hauling gear around can feel like a photoshoot. If you pass a great storefront or mural, it's fine to mention you're into photography or snap one quick phone pic. That's an easy thing to talk about and might set up a second date, like a photo walk.
+## The plan
+**What:** Coffee first, then a slow browse through an independent or secondhand bookshop. If it's going well, walk the area afterwards.
+**Where:** An independent or used bookshop in her central area, with a good coffee shop within a 5-minute walk. A bookshop with its own café is ideal. Pick somewhere central so the trip is easy for her. You're the one crossing town, which is the right way round for a first date.
+**When:** Sunday, 1:00pm. It's her "ideal Sunday" brought to life, it's daytime, and the afternoon is open if you're both enjoying it.
+**Why it fits:** It matches the exact Sunday she described. There's no alcohol and no restaurant menu to worry about. Bookshops also give you easy conversation starters: "what's the last thing you couldn't put down?"
+**Budget:** About $40 total.
+- Two coffees plus a pastry or snack to share: roughly $15-20 (check prices).
+- That leaves room for a cheap secondhand book each, around $5-10. Picking one for each other is a fun option.
+
+**Extend option:** Walk a nearby park, riverside or interesting street. This is where your love of walking fits in. Your photography is a good topic to bring up naturally ("I always end up taking photos when I walk around here"). Leave the big camera at home on date one, though. A phone is fine.
 
 ## Backup plan
-**Saturday afternoon (around 2pm)** if Sunday doesn't work. If it's raining, do the same thing indoors: find a café that's inside or next to a bookshop, or a big bookstore with a coffee counter, and browse slowly without the outdoor walk.
+If it rains or the bookshop is unexpectedly closed: a café with plenty of seating where you stay a little longer, or a covered market or bookshop café where you can browse indoors. Keep the same time and the same area so nothing needs re-arranging.
 
 ## The invite (copy-paste)
-> "Your ideal Sunday sounds pretty perfect. Want to do a coffee + bookshop wander near you this Sunday around 1?"
+Once you have a real place, use this:
+> "You said your ideal Sunday is wandering somewhere with good coffee. Want to try that this Sunday, coffee and [bookshop] in [area], around 1?"
 
-(22 words. It uses her own line, it's convenient for her, and she can easily suggest Saturday instead.)
+Before you have a name, use this:
+> "You said your ideal Sunday is wandering somewhere with good coffee. This Sunday around 1? I'll pick a bookshop and café near you."
 
-If she says Saturday works better, just reply: "Saturday works great, same plan?"
-If she says no or "maybe another time", send one friendly line like "No worries, enjoy your weekend!" and leave it there.
+If she says Sunday doesn't work, offer Saturday afternoon once. If she says "maybe another time", reply with one friendly line, like "No worries, happy to whenever suits you," and leave it there.
 
 ## Logistics + safety
-- **Meet there.** Each of you gets yourself there and home. Central is closer for her and a fair trip for you, so plan your own route from the east side and give yourself buffer time.
-- **Share the plan with a friend:** where you're going and roughly when.
-- **Public, daytime, easy exit.** Coffee is a natural first stop, and either of you can wrap up after it if there's no spark.
-- **Confirm the day before or that morning:** "Still good for 1? I'll be at [café]."
-- **Know your spots:** check that the café has vegetarian food and the bookshop is open on Sunday before you suggest them.
-- **Covering coffee:** offer to pay, but be relaxed if she'd rather split.
+- You each get yourselves there and home. Don't offer to pick her up.
+- Meet at the café first, not out on the street. It's public and easy to find.
+- Daytime, public, and coffee-first means there's a natural exit point after about an hour if either of you wants it.
+- She'll probably share plans with a friend, and it's good practice for you too.
+- Check hours before sending the invite. Independent bookshops often keep shorter Sunday hours.
+- Pick a coffee spot with good oat or other plant milk and some vegetarian food. That's an easy, quiet way to show you read her profile.
+
+If you set up the **dating-voice-profile** and **dating-logbook** skills, I can write the invite in your own style and remember details about Priya for next time.

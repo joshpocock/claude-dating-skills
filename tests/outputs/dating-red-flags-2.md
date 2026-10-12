@@ -15,34 +15,29 @@ Emma: perfect, I'll be the one with dog hair on my jacket. if anything comes up 
 ## Output
 
 ## What I looked at
-Emma's profile (31, nurse; photos of hiking, a dog, and her with friends at a barbecue) and a short Bumble chat where you plan to meet Friday at 6pm at Greenleaf Coffee on Main. Everything you pasted was clear.
+You shared her Bumble profile (31, nurse; photos of hiking, a dog, and her with friends at a barbecue) and a short chat where you set up Friday. I can't see the photos themselves, so I'm going on how you described them.
 
 ## Risk level: Low
 
 ## Flags (with evidence)
-I didn't find any. Nothing here matches the usual scam or catfish patterns:
-- She hasn't asked for money, gift cards, crypto, codes, ID or links.
-- She hasn't pushed to move off the app. She said the opposite: *"if anything comes up I'll message here."*
-- No love bombing, no urgency, no requests for secrecy or explicit photos.
+I found none. Nothing in this chat matches a known scam or safety pattern. She hasn't asked for money, links, codes or ID. She hasn't pushed to move off the app, rushed things emotionally or asked you to keep anything secret.
 
 ## Reassuring signs
-- **She's already done a video call with you.** *"that video call Tuesday was fun, nice to put a voice to the face."* This is the strongest anti-catfish sign there is.
-- **She replies to what you actually say.** She noticed your Pine Ridge photo and talked about the trail with you. Bots and scripts don't do that.
-- **She's happy with a public first meeting.** You suggested a coffee shop at 6pm and she agreed right away. She didn't ask for somewhere private and didn't ask you to pay for travel.
-- **She's keeping it on Bumble**, so the app can still act if anything goes wrong.
-- **Her profile fits together.** Normal everyday photos (hiking, dog, friends) and details that match what she says in the chat.
+- **She's already done a video call with you.** She said, "that video call Tuesday was fun, nice to put a voice to the face." Getting on video is one of the strongest signs she's who her photos show.
+- **She replies to what you actually say.** She noticed your Pine Ridge photo, said she'd done the trail, and answered your joke about the last mile. Bots and copy-paste scripts don't do that.
+- **Her profile looks like a real life.** Hiking, a dog and friends at a barbecue are ordinary, varied photos, not a model shoot. The dog shows up in both her photos and her messages ("dog hair on my jacket").
+- **She's happy to meet somewhere public and early.** She said "perfect" to 6pm at a coffee shop on Main Street.
+- **She's keeping things on Bumble.** "If anything comes up I'll message here." Scam profiles usually try to move you off the app fast.
 
 ## What to do now
-Nothing special. This looks like a normal, well-paced match. As general habits:
-- If a request for money, a "verification" link or a move to another app ever shows up, treat it as a stop sign, however it's framed.
-- Keep any rescheduling on Bumble, as she suggested.
+- Nothing urgent. Keep chatting on Bumble until Friday as you planned.
+- If she suddenly asks for anything before the date, like money for a ride, a "verification" site or a link, treat that as a reason to stop. Nothing so far suggests she will.
+- A reverse image search of her photos (Google Lens or TinEye) is optional. After a video call it isn't really needed.
 
 ## If you meet up
-- Greenleaf Coffee on Main is a good choice: public, busy, early evening.
-- Get there and back on your own.
-- Tell a friend who you're meeting, where and when. Set a check-in time if you like.
-- Keep your drink with you. You can leave whenever you want without giving a reason.
-- Hold off on sharing your home address or workplace until you know her better.
-- Trust your gut on the day. Leaving early is always fine.
+- Greenleaf Coffee at 6pm is a good choice: public, busy and easy to leave. Get there and home on your own.
+- Tell a friend who you're meeting, where and when. Agree a time to check in with them.
+- Don't share your home address or where you work until you know her better.
+- You can leave whenever you like, and so can she. If it's going well, you can decide together where to go next. Keep it somewhere public for a first date.
 
-Enjoy Friday. Checking first was a sensible move, and here everything looks good.
+Have a good Friday.

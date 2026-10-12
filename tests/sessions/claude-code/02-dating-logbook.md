@@ -1,0 +1,1 @@
+(Fictional.) Log a new match for me: Priya on Hinge, matched today. She's into bookshops, good coffee, she's vegetarian and doesn't drink. I opened with "settle this: bookshop cafe or library with a vending machine" and she replied with a long answer and asked me which bookshop I'd pick.

@@ -16,40 +16,44 @@ Day 3 Sophia: why are you ignoring me? if you don't deposit $500 on the app toda
 ## Output
 
 ## What I looked at
-A Tinder profile ("Sophia", 29, "finance + travel", 4 magazine-style photos, bio "Life is short, invest in yourself") and 3 days of messages, first on Tinder and then on Telegram. I can't see the photos or the link, so I'm going only on what you described.
+Her Tinder profile (age 29, "finance + travel", 4 magazine-style photos, bio "Life is short, invest in yourself") and 3 days of chat, first on Tinder and then on Telegram. I can only see what you pasted. I can't see the photos themselves or the screenshot and link she sent.
 
 ## Risk level: Stop now
-She has asked you to deposit $500 into a crypto app. Any request for money or crypto means stop, whatever else is going on. On top of that, almost every step of this chat matches a well-known script called "pig-butchering", which is a crypto investment scam. There's also a sextortion setup mixed in.
+
+She asked you to put money into a crypto app ("deposit $500 on the app today"). That alone puts this at Stop now. The rest of the chat follows a very common scam script known as "pig-butchering": a crypto investment scam run through a fake romance, often with a sextortion attempt added on. Scams like this target smart people every day. Nothing here reflects badly on you.
 
 ## Flags (with evidence)
-- **Money/crypto request (high):** *"if you don't deposit $500 on the app today we can't have a future together"*. This is the main red flag.
-- **Crypto pitch (high):** *"My aunt taught me a crypto trading strategy, I made $12k last month, here's a screenshot. I can show you how, just download this app [link]"*. Relative with a winning strategy, profit screenshot, then "download this app". That's the standard pig-butchering pattern. Apps like this often show fake balances that you can never withdraw.
-- **Unfamiliar link/app (high):** being sent to download an app you don't know in order to "invest".
-- **Pushing for intimate content (high, sextortion risk):** *"Let's video call tonight, but I want to see more of you ;) send me something first"*. Asking for something explicit before any real video call is a common setup for blackmail.
-- **Moving off the app right away (medium):** *"I'm rarely on this app, add me on Telegram?"*. This came in her first message. Off the app, Tinder can't see or act on what happens.
-- **Can't meet, conveniently (medium):** *"I'm in Singapore for work until next month"*, said as soon as you suggested a drink.
-- **Pressure and guilt (medium-high):** *"why are you ignoring me?"* plus a same-day deadline tied to "our future", after 3 days.
-- **Early flattery (medium):** *"you seem different from the guys on here"* in message one.
-- **Profile (supporting):** magazine-style photos, a thin bio that sets up the investing theme ("invest in yourself"), and a "finance" job. This fits the fake-profile pattern.
+
+**High concern**
+- **Money request, under pressure:** *"if you don't deposit $500 on the app today we can't have a future together."* This is a money demand with a deadline and an emotional threat attached.
+- **Crypto "teach you" pitch:** *"My aunt taught me a crypto trading strategy, I made $12k last month, here's a screenshot. I can show you how."* A relative with a secret strategy plus a profit screenshot is the textbook opener for this scam. Profit screenshots are easy to fake.
+- **Link to an unfamiliar app:** *"just download this app [link]."* These apps are usually fake trading platforms. They show "gains" so you deposit more, and then you can't withdraw anything.
+- **Sextortion setup:** *"I want to see more of you ;) send me something first."* Explicit photos sent to a scammer usually come back as a threat to send them to your family or employer unless you pay.
+
+**Medium concern**
+- **Moved off the app in her first message:** *"I'm rarely on this app, add me on Telegram?"* On Telegram, Tinder can't see the chat and can't act on reports.
+- **Can't meet in person:** *"in Singapore for work until next month."* You suggested a drink and she offered a "video call" on her terms, after you send something first.
+- **Profile fits a known fake template:** photos that look like a magazine shoot, a finance-themed job, and a bio that is literally about investing.
+- **Heavy flattery right away:** *"Hey handsome, you seem different from the guys on here."*
+- **Guilt and urgency:** *"why are you ignoring me?"* came 2 days after you went quiet, followed by "today" and "no future."
 
 ## Reassuring signs
-None in this chat. She did mention a video call, but she made it depend on you sending something first, so I can't count that as reassuring.
+None in this chat. She has said yes to a video call in principle, but only if you send something first, so that doesn't count as a good sign.
 
 ## What to do now
-1. **Don't deposit anything.** No money, crypto, gift cards or "fees", whatever story comes next. Expect follow-ups like "just $100 to start", "your account is frozen, pay a fee to withdraw", or a "recovery service" offering to get money back. Those are part of the same scam.
-2. **Don't send any photos or video of yourself.** If you already have, see step 6.
-3. **If you downloaded the app**, delete it. Don't enter card, bank or ID details. If you already entered anything, change those passwords and call your bank.
-4. **Screenshot the chat** (Telegram and Tinder) and her profile, then **report her on Tinder and Telegram** and block her on both.
-5. Optional: reverse-image-search her photos (Google Lens, TinEye). They'll often turn up on a model's or influencer's account under another name. You don't need to do this before stopping, though.
-6. **If you sent money or images:** contact your bank now and report it. In the US that's reportfraud.ftc.gov and ic3.gov; elsewhere, use your national fraud reporting service. If anyone threatens to share images, **don't pay**, because paying rarely ends it. Save the evidence, block, and report to the platform and the police. StopNCII.org can help keep images from spreading.
-
-You didn't do anything wrong here. Your instinct to suggest a drink and not click straight away was a good one. These scripts are run by professionals and work on smart people all the time.
+1. **Don't deposit anything** on that app or any other, whatever she says next. Expect more pressure, new excuses, or a second "friend" who wants to help you trade.
+2. **Don't send any photos.** If you already sent something explicit and she threatens to share it: don't pay, save screenshots of the threats, block her, and report her to Telegram and the police. Paying almost never makes it stop. StopNCII.org can help get intimate images blocked on major platforms.
+3. **If you downloaded the app,** delete it. If you entered any card, bank or exchange details, call your bank today and change any password you used there.
+4. **Report her:** on Tinder (Report → Scam) so the profile gets reviewed, and on Telegram. In the US you can also report to reportfraud.ftc.gov or ic3.gov. Elsewhere, use your national fraud reporting service.
+5. **Block her on both apps.** You don't owe her a reply.
+6. If you're curious, run a reverse image search on her photos with Google Lens or TinEye. They often turn out to belong to an influencer or a model.
 
 ## If you meet up
-Not relevant for "Sophia". For future matches:
-- Ask for a quick video call first. Someone genuine usually agrees without conditions.
-- Keep chats on the app until you've met.
-- Meet somewhere busy and public, and arrange your own transport.
-- Tell a friend who you're meeting, where, and when.
-- Don't share your address or workplace early.
-- You can leave whenever you want.
+She says she's abroad, so a meeting probably won't happen, and you shouldn't try to arrange one with this profile. For future matches:
+- Meet somewhere busy and public, and arrange your own transport there and back.
+- Tell a friend who you're meeting, where and when, and agree on a check-in time.
+- Keep the chat on the app until you've met in person.
+- Never pay anyone's fare, ticket or "deposit" before a first date.
+- A quick video call before meeting is a reasonable ask, and a genuine match will usually agree.
+
+For later: the dating-logbook skill lets you note this profile, and the dating-voice-profile skill makes future reads and drafts more personal.

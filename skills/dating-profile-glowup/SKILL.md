@@ -15,6 +15,13 @@ If the companion skills `dating-photo-ranker` or `dating-bio-rewriter` are insta
 
 Defaults, examples and tone are written for a guy on the apps, mostly dating women. If the user tells you otherwise (any gender, any orientation), adapt the pronouns, examples and advice to them. Never assume beyond what they tell you.
 
+## Your voice profile and dating log (if available)
+
+- Check for the user's voice profile before drafting: `./dating-log/me.md` in Claude Code, or a `me.md` Project file or pasted profile in Claude.ai. If it exists, match his tone, message length, punctuation, humour and emoji habits, and use his real interests. Never add interests that are not in it.
+- Check his dating log too: `./dating-log/INDEX.md` and that match's file in `./dating-log/matches/`, or a pasted or Project `dating-log.md`. Use what is there and say briefly when you do ("your log says she lit up about her dog").
+- Use it for: the Words section (his voice, his real interests, fewer questions in Step 2 if the profile already answers them) and the photo shot list (shots of hobbies he actually has).
+- If neither exists, work normally; you may mention once that the dating-voice-profile and dating-logbook skills make this more personal. Do not create or edit log files from this skill; if something worth logging happened and dating-logbook is installed, offer to update the log.
+
 Practical, changeable presentation tips are fine (fresh trim before a shoot, clothes that fit, solid colours over busy logos, a smile in at least the lead photo). Never comment on body, weight, height, face, hairline or features.
 
 ## Step 1: Read everything (show your work briefly)

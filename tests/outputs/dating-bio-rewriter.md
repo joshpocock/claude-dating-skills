@@ -15,56 +15,60 @@ About me: I teach high-school chemistry, I've been learning the cello for about 
 ## Output
 
 ## What's working / what's not
-- **Working:** You do say what you want ("partner", "genuine"), and the fun-fact prompt shows you want to come across as funny. That's a good instinct.
-- **Not working:** The bio is mostly stock phrases. "Work hard play hard", "good vibes" and "partner in crime" show up on thousands of profiles and tell her nothing about you.
-- **"No drama please!!"** is a negativity filter. It reads as guarded and is better cut.
-- **"I'm actually pretty funny once you get to know me"** asks her to take your word for it. Showing one funny detail works much better.
-- **You left out your best material.** Teaching, cello, Sunday chili and Portugal are all specific and easy to message about, and none of them made it in.
-- **Height:** Bumble shows it in your profile basics, so you don't need it in the bio.
+
+- **Working:** You give a clear relationship goal, and "partner in crime" shows you want someone to do things with. The real facts you sent me are much better material than anything in the current profile.
+- **Not working:** "Work hard play hard", "gym, travel and good vibes" and "partner in crime" show up on thousands of profiles. Nothing in them tells her who *you* are.
+- **"No drama please!!"** is a negativity filter. It reads as baggage and puts the wrong tone in her head before she's read anything else.
+- **"I'm actually pretty funny once you get to know me"** claims you're funny instead of showing it, and it gives her nothing to reply to.
+- **"Food, music, friends" and "Someone genuine"** are too vague to start a conversation with. You have a cello, a weekly chili tradition and Portugal. Use them.
+- **6'0:** Bumble has a height field. Put it there and use the bio for things a field can't say.
 
 ## Rewritten profile
 
 **Bio:**
-Teacher by day, very committed (very bad) cellist by night. Every Sunday I make a huge pot of chili for my housemates. Been to Portugal twice, ask me why twice. Looking for something long-term, no rush.
+Teacher by day, very beginner cellist by night (one year in, still committed). Every Sunday I make a huge pot of chili for my housemates. Been to Portugal twice and not done with it yet. Looking for something real, no rush.
 
-*(why it works: it fits four real, specific details into about 230 characters, and "ask me why twice" gives her an easy first line)*
+*(why it works: it opens with three specific details she can ask about, and it ends on what you want, said warmly. It's about 230 characters, so it fits Bumble's 300 limit.)*
 
-**Prompt:** My simple pleasures
-**Answer:** A big Sunday pot of chili for the house, music on, nobody leaving hungry. Tell me your chili rule and I'll tell you if you're invited.
-*(why it works: "food, music, friends" becomes an actual scene, and it ends with an easy reply)*
+**Prompt: A fun fact about me**
+Answer: I've been teaching myself cello for a year. "Badly" is the honest review, but I haven't quit.
 
-**Prompt:** A fun fact about me
-**Answer:** I've been learning the cello for a year. My housemates would like you to know it's "going well."
-*(why it works: you show you're funny instead of saying it, and the self-deprecation stays light)*
+*(why it works: the light self-deprecation shows the humour the old answer only claimed, and "why cello?" is an easy reply.)*
 
-**Prompt:** I'm looking for
-**Answer:** Something long-term, without rushing it. Someone genuine who'd rather get to know each other properly than keep it surface level.
-*(why it works: it's clear and warm, it keeps your own word "genuine", and it says what you want without listing what you don't)*
+**Prompt: My simple pleasures**
+Answer: Sunday chili for the whole house, a cello practice that goes slightly less badly than last time, and planning trip #3 to Portugal.
+
+*(why it works: these are three real details from your life, and each one is something she can ask about.)*
+
+**Prompt: I'm looking for**
+Answer: Something long-term, no need to rush it. Ideally someone who'd come to Sunday chili and tell me honestly if it needs more heat.
+
+*(why it works: it's clear about what you want without reading like a contract, and it ends with a small picture of a date.)*
 
 ## Alternatives
 
 **Bio**
-- *Playful:* Teacher. Cello student (struggling). Sunday chili chef (thriving). Portugal x2. Here for something real, at a normal pace.
-- *Sincere:* I teach, I'm a year into learning the cello, and I cook a big pot of chili for my housemates every Sunday. Looking for something long-term with someone I actually click with.
-
-**My simple pleasures**
-- *Playful:* Sunday chili day. My housemates call it a tradition, I call it an excuse to make way too much chili.
-- *Sincere:* Cooking for people I like. Every Sunday it's a big pot of chili for my housemates, and it's a highlight of my week.
+- *Playful:* Teacher. Amateur cellist (very amateur). Sunday chili guy for a house of grateful housemates. Portugal twice, will argue it deserves a third. Here for something long-term.
+- *Sincere:* I teach, I'm a year into learning cello, and every Sunday I cook a big pot of chili for the people I live with. I'd love to find someone to build something long-term with, at a pace that feels good.
 
 **A fun fact about me**
-- *Playful:* A year into cello lessons. You can request a song, but it's at your own risk.
-- *Sincere:* I started cello at 30 with zero experience. Still bad, still going, and it turns out learning something from scratch is great for a teacher.
+- *Playful:* Guess the instrument I've been learning for a year. Hint: it's bigger than a violin and my neighbours know all about it.
+- *Sincere:* I started cello at 30 because I always wanted to. I'm not good yet, but I love having something I'm a total beginner at.
+
+**My simple pleasures**
+- *Playful:* The moment my housemates hear the chili pot come out on a Sunday.
+- *Sincere:* Feeding people I like. The Sunday chili started as a one-off and turned into a tradition.
 
 **I'm looking for**
-- *Playful:* Someone to argue about chili toppings with for the foreseeable future. Long-term, no rush.
-- *Sincere:* A real relationship that builds naturally. Kindness, honesty, and someone who's up for both quiet Sundays and the occasional trip.
+- *Playful:* A long-term thing. Bonus points if you have opinions on whether chili should have beans.
+- *Sincere:* Someone to build something lasting with. I'm in no hurry, I'd just rather it be real.
 
 ## Placeholders to fill
-- **"Ask me why twice"**: only keep this if you have a good answer ready, like `[what keeps pulling you back to Portugal]`.
-- **Chili rule hook**: it helps to have your own take ready, e.g. `[beans or no beans / your secret ingredient]`.
-- **Cello at 30**: one alternative says you started at 30. That fits "31, about a year in", but check it's right.
-- **"Highlight of my week"** and **"quiet Sundays and the occasional trip"**: I added these feelings to some alternatives. Only use them if they're true.
-- **Length**: Bumble limits the bio to about 300 characters and prompt answers are short too, roughly 160. Everything above should fit, but the app will tell you if something runs over.
-- **Gym**: I left it out because it was crowding out your more interesting details. If it matters to you, a photo will say it better than a line.
 
-This is a draft. Change anything that doesn't sound like you before you publish. If you want a different feel, just say "more playful", "more sincere" or "shorter" and I'll adjust.
+None of these are needed, but each would make an answer sharper:
+- `[your chili's secret ingredient]`: this would make the chili line more specific.
+- `[favourite place or moment from Portugal]`: this could replace "not done with it yet" with something she can ask about.
+- `[a piece you're learning on cello]`: this gives her a fun, specific question to ask.
+- **Gym:** I left it out because "love the gym" doesn't say anything specific. If there's a concrete version (climbing, running, a lift you're chasing), tell me and I'll work it in.
+
+This is a draft. Change anything that doesn't sound like you before you publish. If you want the copy to match how you actually write, the dating-voice-profile skill can do that. Tell me "more playful", "more sincere" or "shorter" and I'll adjust.

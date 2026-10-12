@@ -16,31 +16,33 @@ Jess: lol maybe. I'm free most of Sunday if the pancake league gives you a day o
 
 ## Output
 
-Privacy: Even with a real chat, crop out her name, number, photos, workplace and other personal details before sharing it, and don't forward her messages to anyone else.
+Privacy: This chat is fictional, but with real chats, crop out her full name, number, photos, workplace and other personal details before you share them, and don't forward her messages to anyone.
+
+(I couldn't see a voice profile or dating log, so this read is based only on the chat. The dating-voice-profile and dating-logbook skills would let me match your style and keep track of this match.)
 
 ## Summary
-Jess started the chat by asking about a line on your profile, and you two kept a running joke going about your pancake-off. She then brought up a brunch place on Juniper she wants to try and asked if you'd been. You asked if that was a hint, and she said she's free most of Sunday.
+Jess opened by asking about your "competitive pancakes" line. You played along with the pancake-off story and it worked. She then named a brunch place she wants to try, asked if you'd been, and offered her availability without being asked: "free most of Sunday."
 
 ## Signals
-| | You | Them (Jess) |
+| | You | Jess |
 |---|---|---|
-| Questions asked | 1 ("Is that a hint...") | 2 ("what's your signature move", "have you been?") |
-| Effort / length | Short, specific, funny | About the same as yours, and she double-texted once |
-| Who starts topics | You expanded on the pancake topic | She opened with your profile and brought up the brunch place |
-| Listening | You picked up on her brunch mention | She built on your details ("3-7 is a cry for help", "the judge sounds ruthless") |
-| Warmth | Self-deprecating humour | Teasing, "lol", "I'd take brown butter over anything" |
-| Future talk | You hinted ("need a scout") | She named a place, said she wants to go, and offered her free day: "I'm free most of Sunday" |
+| Starts topics | Picked up her opener well | Opened the chat and brought up the Juniper brunch spot |
+| Questions asked | 1 ("need a scout?") | 3 ("explain", "signature move", "have you been?") |
+| Listening | Built on her teasing | Kept coming back to your story: "3-7 is a cry for help", "the judge sounds ruthless", "pancake league" |
+| Effort / length | Short, funny, about the same as hers | About the same as yours, and she sent two messages in a row |
+| Warmth | Light, self-deprecating | Teasing, "lol maybe", "I'd take brown butter over anything" |
+| Future talk | Half-asked ("a hint that you need a scout") | Named a specific place, a day, and that she's free |
 
 ## Honest read (confidence: high)
-She's clearly interested, and she's done most of the work toward a date. She named a specific place, said she wants to go, and told you when she's free. That's close to an invitation, and when someone shares their availability like that, they're usually waiting for you to make a plan. It isn't too soon. The bigger risk is staying in banter mode and letting the opening go cold. Your side has been good: short, funny and responsive. I'm only short of "certain" because the chat is brief and I can't see timestamps. If her reply to a real invite is vague ("maybe, we'll see"), lower your read. If she confirms a time, it was exactly what it looked like.
+She's clearly engaged, and she has more or less set up the date for you. She asked most of the questions, kept your joke going, named the place herself, and told you when she's free. That isn't just politeness. Asking her out isn't too soon. If anything, the risk now is waiting too long and letting the chat lose momentum. Two things would lower my confidence: if this happened weeks ago and the chat has gone quiet since, or if she backs off when you give her an actual time. Neither is in what you've shown me.
 
 ## Next move
-Ask now, with the place she named and the day she offered. Pick a time so she only has to say yes:
+Ask her out now, and make it concrete: Sunday, the soufflé pancake place on Juniper, and a time. Keep it in the pancake joke you two already have. A few ways to say it:
 
-- **Playful:** "The league can survive one Sunday without me. Souffle pancakes on Juniper, around 11? Strictly for scouting purposes."
-- **Sincere:** "Ha, I'd love that. Want to try the place on Juniper this Sunday, around 11?"
-- **Short:** "Sunday brunch on Juniper, 11ish? I'm in."
+- **Playful:** "The league has granted me Sunday off for scouting purposes. Soufflé pancakes on Juniper, 11ish?"
+- **Sincere:** "Ha, you've sold me. Want to try the Juniper place together on Sunday? Around 11 work for you?"
+- **Short:** "Sunday, Juniper, soufflé pancakes. 11?"
 
-If 11 doesn't work for her, let her suggest another time. Busy brunch places sometimes don't take bookings, so check whether this one does before Sunday.
+If 11 doesn't work for her, let her pick the time. Brunch places often fill up on Sundays, so check whether this one takes reservations or has a long wait. After she says yes, move the logistics to a quick swap of numbers or a confirmation the day before. Don't keep the banter going in the app for days.
 
 Use these as a starting point and make it sound like you.

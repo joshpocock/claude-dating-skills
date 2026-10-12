@@ -14,21 +14,21 @@ Prompt: "Together, we could" -> "find the best dumplings in the city and rank th
 ## Output
 
 ## What I'm working with
-- **Prompts:** "I'll fall for you if" → "you can lose at board games gracefully. I cannot." / "My most irrational fear" → "that my cat secretly prefers my neighbour" / "Together, we could" → "find the best dumplings in the city and rank them with a spreadsheet"
-- **Details:** 27, about 3 km away, looking for long-term, drinks sometimes.
-- **Photos:** on a bike at a farmers market, holding a very fluffy grey cat, a half-finished game of Catan at a board game cafe, hiking soaked in rain gear and laughing, cooking with a wok.
-- **Tone:** playful and self-aware. She jokes about her own flaws, so a light, jokey reply fits.
-- **Best hook:** the board-game prompt. She's openly admitting she's a sore loser, and the Catan photo backs it up. It invites a reply, and a board game cafe makes an easy first date later.
+- Photos: on a bike at a farmers market, holding a very fluffy grey cat, a half-finished game of Catan at a board game cafe, soaked and laughing on a rainy hike, cooking with a wok.
+- "I'll fall for you if" → "you can lose at board games gracefully. I cannot."
+- "My most irrational fear" → "that my cat secretly prefers my neighbour"
+- "Together, we could" → "find the best dumplings in the city and rank them with a spreadsheet"
+- Looking for: long-term. Her tone is playful and self-aware, so she'll probably enjoy a jokey reply.
+- Best hook: the board games prompt. She admits she's a sore loser, which gives you an easy line to play with, and the Catan photo backs it up.
 
 ## Openers
-1. "I can lose at Catan gracefully. I can't promise the same if you put the robber on my wheat. Does that still count?"  
-   **Why:** It answers her prompt directly and leaves her an easy, teasing reply.
-2. "Key spreadsheet question before the dumpling project starts: one overall score, or separate columns for wrapper, filling and dipping sauce?"  
-   **Why:** It's a small, low-stakes debate about her own idea and quietly says you'd be up for doing it.
-3. "My guess is the fluffy grey cat has been seen taking treats from the neighbour, and you've chosen not to look into it."  
-   **Why:** It builds on her joke with a specific guess she can play along with or correct.
+1. "Fair warning: I lose gracefully, but I win insufferably. Is that a dealbreaker or a challenge?"  - why: Builds on her board games joke with a twist and gives her a fun either/or to answer.
+2. "Settle this before the spreadsheet: are dumplings ranked on filling, wrapper, or dipping sauce? Methodology matters."  - why: Turns her dumpling prompt into a small debate and quietly says yes to the plan.
+3. "That half-finished Catan game looks suspicious. Did you win, or did the board get 'accidentally' bumped?"  - why: Teases her with a guess she can confirm or deny, and it ties her photo to her prompt.
 
 ## My pick
-**Number 1.** Her prompt practically asks for this reply, the Catan detail shows you looked at her photos too, and the conversation can easily lead to "settle it at a board game cafe."
+Number 1. It answers the prompt she's most obviously inviting people to answer. It's playful and doesn't take a dig at her, and both "dealbreaker" and "challenge" are easy, flirty replies. It also opens the door to suggesting a board game cafe date later.
 
-Use these as a starting point and make them sound like you. Change the wording before you send. You can also ask me to make them "shorter", "funnier" or "more sincere". No opener guarantees a reply, and plenty of good messages go unanswered for reasons that have nothing to do with the message.
+Use these as a starting point and make it sound like you. Tweak the wording before you send, or tell me "shorter", "funnier", or "more sincere". No opener can guarantee a reply, and plenty of good messages go unanswered for reasons that have nothing to do with the message.
+
+(I didn't have a voice profile or dating log for you this time. The dating-voice-profile and dating-logbook skills can make future openers sound more like you.)
