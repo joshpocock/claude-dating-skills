@@ -19,7 +19,7 @@ They work on the **free Claude plan** as uploaded skills, and in Claude Code.
 | **dating-bio-rewriter** | Rewrites your bio and prompt answers so they're specific and easy to message. Asks a few questions first, never makes things up. | "Rewrite my Bumble bio" + screenshot |
 | **dating-opener** | Reads a match's profile and writes 3 personalized openers (not "hey"), each with a reason, plus a top pick. | "What should I open with?" + their profile |
 | **dating-reply-reader** | An honest read of a conversation, with evidence and a confidence level, then your next message or whether to suggest meeting. | "Is she into me? What do I say back?" + the chat |
-| **dating-date-planner** | Plans a first date from both your interests, area, budget and vibe, finds real current spots near her when web search is on (never invents a venue), and writes the invite (one day, one activity, one place). | "Plan a first date near her in Leslieville, she's vegetarian, $40 budget" |
+| **dating-date-planner** | Plans a first date from both your interests, area, budget and vibe, finds real current spots near her when web search is on (never invents a venue), and writes the invite (one day, one activity, one place). | "Plan a first date near her in East Austin, she's vegetarian, $40 budget" |
 | **dating-red-flags** | Checks a profile or chat for fake-profile, romance-scam and safety red flags and gives first-date safety tips. | "Is this a scam?" + the chat |
 
 Every skill checks for your voice profile and your log and uses them when they're there. Without them, each skill still works on its own.

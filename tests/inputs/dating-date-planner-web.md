@@ -1,1 +1,0 @@
-(Fictional people, real area.) Plan a first date with Ava. She lives in Leslieville in Toronto, I'm in the Annex. Budget about $50 total. She's vegetarian, loves bookshops and good coffee, not sure if she drinks. She's free Sunday afternoon. Chill vibe. Find us some actual spots near her.
