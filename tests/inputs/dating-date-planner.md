@@ -1,0 +1,1 @@
+(Fictional.) Plan a first date for me and Priya. I'm a guy on the east side of the city, she's more central. Budget about $40 total. From her profile: she loves bookshops, is vegetarian, doesn't drink, and said her ideal Sunday is "wandering somewhere with good coffee". I'm into photography and walking. She said she's free Saturday afternoon or Sunday. Chill vibe please.
