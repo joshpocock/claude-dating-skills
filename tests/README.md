@@ -6,6 +6,7 @@ Every profile, chat and person in these tests is invented. Photos are described 
 - `outputs/` - what Claude produced with that skill loaded (via `claude -p`), saved with the input on top.
 - `sessions/claude-code/` - a 4-turn Claude Code test. Each turn is a separate `claude -p` session in the same empty folder with file tools, so anything a later turn knows came from the `dating-log/` files an earlier turn saved. The output, including the final files, is `outputs/session-claude-code.md`.
 - Files ending in `-web` run with web search allowed (the date planner looking up real venues).
+- Files ending in `-agents` run with the Claude Code subagent tool allowed, and the output ends with a line from the tool log saying how many subagents really launched and whether they ran in parallel (the reply council).
 - Run them yourself: `python scripts/run_tests.py` (all) or `python scripts/run_tests.py dating-opener` (one skill). Requires [Claude Code](https://claude.com/claude-code).
 
 ## What each test checks
@@ -20,6 +21,8 @@ Every profile, chat and person in these tests is invented. Photos are described 
 | dating-opener-neg-request | Refuses to write a neg, still gives respectful openers |
 | dating-reply-reader | Tells the user he is carrying a low-engagement chat, with evidence, instead of agreeing it's "going really well" |
 | dating-reply-reader-2 | Recognises clear interest and says to ask her out with one day + one place |
+| dating-reply-reader-council | Claude.ai (no subagents): simulates the council in one reply, three proposals in his lowercase no-emoji voice using only real interests, a judge pick with a reason, two backups |
+| dating-reply-reader-agents | Claude Code: launches the Playful, Direct and Careful advisors as three parallel subagents, then judges their proposals against the read, the log and the voice profile |
 | dating-date-planner | No web search: says it can't look venues up, invents no names, asks for real places, still gives a sober vegetarian plan and invite |
 | dating-date-planner-web | With web search: real, current venues near her area with why they fit, price notes, sources and "check hours" |
 | dating-logbook | Claude.ai paste-back: updates 3 existing entries + a new one, strips her last name, phone number and handle, ends a no-reply match without re-chasing, honest small-sample patterns, full log block to save |

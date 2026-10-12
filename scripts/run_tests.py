@@ -5,6 +5,8 @@ Usage: python scripts/run_tests.py [skill-name-or-input-stem ...]
 Three kinds of test:
 - tests/inputs/<skill>[-variant].md      single turn, no tools (like a plain chat).
 - tests/inputs/<skill>-web.md            single turn with web search allowed (venue lookups).
+- tests/inputs/<skill>-agents.md         single turn with the subagent tool allowed (the reply council's
+                                         three advisors run as real parallel Claude Code subagents).
 - tests/sessions/<name>/NN-<skill>.md    several turns, each a NEW `claude -p` session in the same
                                          temporary folder with file tools, to check that the
                                          Claude Code log and voice profile persist between sessions.
@@ -12,6 +14,7 @@ Three kinds of test:
 Outputs are written to tests/outputs/<input-stem>.md and tests/outputs/session-<name>.md
 """
 import concurrent.futures as cf
+import json
 import pathlib
 import shutil
 import subprocess
@@ -43,6 +46,31 @@ def claude(prompt: str, tools: str, cwd: pathlib.Path | None = None) -> str:
     return res.stdout.strip() or res.stderr.strip()
 
 
+def claude_agents(prompt: str) -> str:
+    """Run with the subagent tool and read the event stream, so the test records how many subagents
+    really launched and whether they were launched together (same assistant message = parallel)."""
+    cmd = ["claude", "-p", "--tools", "Agent", "--allowedTools", "Agent", "--permission-mode", "acceptEdits",
+           "--output-format", "stream-json", "--verbose"]
+    res = subprocess.run(cmd, input=prompt, capture_output=True, text=True, encoding="utf-8",
+                         shell=sys.platform == "win32")
+    launches, final = [], ""
+    for line in res.stdout.splitlines():
+        try:
+            ev = json.loads(line)
+        except ValueError:
+            continue
+        if ev.get("type") == "assistant" and not ev.get("parent_tool_use_id"):
+            calls = [c for c in ev["message"].get("content", []) if c.get("type") == "tool_use" and c.get("name") in ("Agent", "Task")]
+            if calls:
+                launches.append((ev["message"].get("id"), len(calls)))
+        elif ev.get("type") == "result":
+            final = ev.get("result", "")
+    total = sum(n for _, n in launches)
+    batches = len({mid for mid, _ in launches})
+    note = "\n\n---\n" + f"Tool log: {total} subagent(s) launched in {batches} assistant message(s)" + (" (parallel)." if total and batches == 1 else ".")
+    return (final.strip() or res.stderr.strip()) + note
+
+
 def wrap(skill_text: str, message: str, tool_note: str) -> str:
     return (
         "You have the following skill loaded. Follow its instructions exactly when answering "
@@ -57,6 +85,9 @@ def run(inp: pathlib.Path) -> str:
     msg = inp.read_text(encoding="utf-8")
     if inp.stem.endswith("-web"):
         out = claude(wrap(skill, msg, "You may use web search. Do not use any other tools."), "WebSearch")
+    elif inp.stem.endswith("-agents"):
+        out = claude_agents(wrap(skill, msg, "You are in Claude Code. You may use the Agent tool to launch subagents. "
+                                 "Do not use any other tools."))
     else:
         out = claude(wrap(skill, msg, "Do not use any tools."), "")
     (OUTPUTS / f"{inp.stem}.md").write_text(

@@ -1,6 +1,6 @@
 # Claude Dating Skills
 
-Nine free Claude skills that make online dating less painful: keep a private log of every match that gets smarter over time, make every draft sound like you, fix your profile, write better first messages, get an honest read on a chat, plan the date at real places near her, and spot fake profiles and scams before they cost you anything.
+Nine free Claude skills that make online dating less painful: keep a private log of every match that gets smarter over time, make every draft sound like you, fix your profile, write better first messages, get an honest read on a chat, let a council of Claude agents debate what to text her next, plan the date at real places near her, and spot fake profiles and scams before they cost you anything.
 
 They work on the **free Claude plan** as uploaded skills, and in Claude Code.
 
@@ -18,13 +18,39 @@ They work on the **free Claude plan** as uploaded skills, and in Claude Code.
 | **dating-photo-ranker** | Ranks your photos, picks your lead, says what to cut and what to shoot next. Judges the photo, never your looks. | "Which of these should be my first photo?" |
 | **dating-bio-rewriter** | Rewrites your bio and prompt answers so they're specific and easy to message. Asks a few questions first, never makes things up. | "Rewrite my Bumble bio" + screenshot |
 | **dating-opener** | Reads a match's profile and writes 3 personalized openers (not "hey"), each with a reason, plus a top pick. | "What should I open with?" + their profile |
-| **dating-reply-reader** | An honest read of a conversation, with evidence and a confidence level, then your next message or whether to suggest meeting. | "Is she into me? What do I say back?" + the chat |
+| **dating-reply-reader** | An honest read of a conversation, with evidence and a confidence level, then a reply council: three advisors (Playful, Direct, Careful) each pitch one reply and a judge picks the best fit for the read, your log and your voice. See [The reply council](#the-reply-council). | "Is she into me? What should I text her?" + the chat |
 | **dating-date-planner** | Plans a first date from both your interests, area, budget and vibe, finds real current spots near her when web search is on (never invents a venue), and writes the invite (one day, one activity, one place). | "Plan a first date near her in East Austin, she's vegetarian, $40 budget" |
 | **dating-red-flags** | Checks a profile or chat for fake-profile, romance-scam and safety red flags and gives first-date safety tips. | "Is this a scam?" + the chat |
 
 Every skill checks for your voice profile and your log and uses them when they're there. Without them, each skill still works on its own.
 
 Each skill is a folder in [`skills/`](skills) with a `SKILL.md`.
+
+## The reply council
+
+Ask dating-reply-reader "what should I text her?" (or just share the chat, or say "run the council") and, after the honest read, three advisors each propose one reply to her last message and argue for it:
+
+- **Playful:** light, teasing, fun.
+- **Direct:** moves things forward, toward a date when the signals support it.
+- **Careful:** low-pressure, matches her energy, protects you from over-investing.
+
+Then a judge weighs them against the honest read, your log (what she's into, what landed, what fell flat) and your voice profile, picks one with a one-line reason, and keeps the other two as backups. Every reply is in your voice and only uses interests that are really yours. In **Claude Code** the three advisors run as real parallel subagents and the main agent is the judge; in **Claude.ai** Claude runs the same council in a single reply. It never sends anything: you pick, edit and send.
+
+A fictional example. Her last message: *"ok that's honestly impressive. I'd need proof before I believe it though"* (about his 12-hour ramen):
+
+```
+Playful: "proof will be provided. bring your own spoon, sourdough person"
+  Why: keeps the mock-serious bit going, and food debates are what she replies to.
+Direct:  "come try it then. ramen tasting at the noodle bar near you, saturday?"
+  Why: she asked for proof and she's asking questions back. Easy, public, specific.
+Careful: "fair. i'll send a photo of the pot on sunday as evidence"
+  Why: low effort, keeps it going without asking for anything yet.
+
+Judge's pick: Direct. She's engaged (two questions back, long replies) and she
+handed you the reason to meet. Backups: Playful, Careful.
+```
+
+Use these as a starting point and make it sound like you.
 
 ## Install
 

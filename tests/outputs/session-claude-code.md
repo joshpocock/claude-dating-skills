@@ -11,28 +11,25 @@ Each turn is a separate `claude -p` session (no shared chat history) running in 
 
 ### Claude
 
-I'm running in Claude Code, so I created the folder and saved your profile to `dating-log/me.md`.
+I created your voice profile and saved it to `./dating-log/me.md` (Claude Code mode). I made the `dating-log/` folder since you said yes. This folder isn't a git repo, so there's nothing to add to `.gitignore`.
 
-**How you text, from your four messages:**
-- **Tone:** dry, playful and relaxed.
-- **Length:** short, one line, about 5-9 words.
-- **Case and punctuation:** all lowercase, even "i". No exclamation marks. You never end a message with a full stop.
-- **Humour:** absurd exaggeration ("the bus has chosen violence") and mock challenges ("fight me").
-- **Phrases you use:** "lol", "haha", "honestly", "i'm in", "fair".
-- **Never use:**
-  - "beautiful" as an opener, winky faces and exclamation marks, as you said
-  - no emoji at all: I guessed this because your samples had none, and the profile marks it as a guess
+**What I picked up from your texts:**
+- **Case:** all lowercase, including "i".
+- **Punctuation:** no full stop at the end. You sometimes put one mid-line for comic timing: "better. fight me".
+- **Length:** short single lines of about 6–10 words.
+- **Humour:** dry and deadpan, with playful exaggeration like "the bus has chosen violence" and "fight me".
+- **Laughs and emoji:** "lol" and "haha", no emoji.
+- **Phrases you use:** "lol no way", "haha fair", "honestly", "i'm in".
+- **Never use:** "beautiful" as an opener, winky faces and exclamation marks are all on the list.
 
-**About you:** you're into climbing and making ramen from scratch. You want something serious, with no rush. Smoking is a deal-breaker.
+**Gaps that make the profile less accurate for now:**
+- I had 4 samples. 5–10 would make it more reliable, and your side of a past dating chat would help most.
+- You didn't say how you want to come across. I marked it "not stated" and noted that your texts read as funny and low-key.
+- I left "weekend" blank. Tell me what a good free weekend looks like and I'll add it.
 
-**Gaps you can fill in later:**
-- You didn't say what a good free weekend looks like.
-- You didn't say how you want to come across. For now the profile says your texts read as dry and playful.
-- I only had four messages. Sending a few more, especially from past dating chats, would make the profile more accurate.
+I also wrote three example lines in your voice, labelled as examples. They only mention what you told me: climbing, ramen and tacos.
 
-The folder isn't in a git repo, so you don't need a `.gitignore` entry. If you put it in a repo later, add `dating-log/` to `.gitignore`.
-
-Your style should work well in dating chats. Short, dry, teasing messages without exclamation marks come across as confident, so I'm not flagging anything to change.
+Separately, a few connectors in this session (Fireflies, Airtable, Vercel) need you to sign in again before they'll work. None of them matter for this.
 
 This helps drafts sound like you. You still send everything in your own words.
 
@@ -45,24 +42,27 @@ This helps drafts sound like you. You still send everything in your own words.
 
 ### Claude
 
-Mode: Claude Code log in ./dating-log/ (the folder and your voice profile `me.md` were already there. It isn't a git repo, so no `.gitignore` is needed.)
+Mode: Claude Code log in `./dating-log/`. Your `me.md` voice profile was already there. This was the first match, so I also created `INDEX.md` and `matches/`.
 
 ## Updated
-- Priya: new entry at `matches/priya-hinge.md`. She's into bookshops and good coffee, is vegetarian and doesn't drink. Your opener got a long reply and she asked a question back.
-- Created `INDEX.md` with Priya's row and the start of a patterns section.
+- New entry `matches/priya-hinge.md`: Priya, Hinge, matched 2026-10-12, status "talking". She's into bookshops and good coffee. I added "vegetarian" and "doesn't drink" as practical notes. Your opener is logged as getting a long reply and a question back.
+- `INDEX.md` created with her row and a patterns section (too early for real patterns).
 
 ## Advice
-Your opener worked well. A long reply plus a question back is a good sign. Next, answer her question with a real bookshop and a short reason, then ask her one thing back. Keep it short, the way you usually text.
+That's a strong start. A long answer plus a question back means she's interested, so you're in a good spot.
 
-Drafts in your voice (put in a bookshop you actually like):
-- "honestly [bookshop], the coffee there has chosen excellence"
-- "[bookshop], but only for the cafe. which one's yours"
-- "[bookshop]. it's tiny and smells like old paper, i'm in. your pick?"
+**Next move:** answer her question properly, with a real bookshop and one reason. Then hand her something easy to pick up. You haven't told me which bookshop you'd pick, so fill that in. Some drafts in your voice:
 
-Don't ask her out yet. If the chat keeps going well for a few more messages, a bookshop cafe or a coffee spot is an easy first date. It fits what she likes, has no drinking, and works for a vegetarian. You could pick a bookshop together once you've both named favourites.
+- "[shop] every time. the coffee's mid but the fiction section is elite"
+- "honestly [shop]. there's a chair in the back i've basically claimed. fight me"
+- "[shop], no contest. ok your turn, best coffee near a good bookshop, go"
+
+The third one starts to steer toward a meetup without asking yet.
+
+**Looking ahead:** she doesn't drink and she loves coffee and books. When you ask her out, suggest coffee followed by a browse around a bookshop rather than drinks. Don't ask yet. Let a couple more exchanges happen first.
 
 ## Patterns
-Your "settle this" opener, a pick-a-side question about her interests, got a reply (1 of 1). One match isn't a pattern yet. I'll track it as more get logged.
+With one match there aren't any patterns yet. For the record, your "pick a side" opener built on her profile got a reply (1 of 1).
 
 Drafts are a starting point. Send them in your own words.
 
@@ -75,27 +75,33 @@ Drafts are a starting point. Send them in your own words.
 
 ### Claude
 
-Mode: Claude Code. Your log is in ./dating-log/
+Mode: Claude Code log in ./dating-log/
 
 ## Updated
-- **Priya:** added sci-fi books to what she's into. Under "responded well to" I added her long message about sci-fi, and under "fell flat" I added "how's work been" (she said "busy haha"). New next step: ask about one of her sci-fi picks, then suggest a bookshop and coffee.
-- **Chloe (new, `matches/chloe-bumble.md`):** Bumble, into running and true crime. Opener was "hey how's your week" and she didn't reply, so I marked it ended. I don't know the date you matched, so I left it as "(unsure)".
-- **INDEX.md:** added Chloe and updated the patterns section.
+- **Priya:** added sci-fi books to her interests and to "responded well to" (she sent you a long message about them). Added "how's work been" → "busy haha" to "fell flat". The next step is now: reply about the books, then suggest a bookshop and coffee.
+- **Chloe (new, Bumble):** created `matches/chloe-bumble.md`. She's into running and true crime. You opened with "hey how's your week" and got no reply, so I marked her as ended. I put the match date as "(unsure)" because you didn't give one.
+- **INDEX.md:** added Chloe's row, updated Priya's next step, and added an early note to the patterns section.
 
 ## Advice
-**Priya:** Go back to the sci-fi books and drop the work talk. She wrote you a long message about sci-fi and gave work two words, so she's showing you what she wants to talk about. Pick one book she mentioned and ask her something specific about it. A few drafts in your voice:
-- "ok which one would you make me read first"
-- "wait is [book] actually good or is it a cover thing"
-- "honestly you've sold me on [book], how bad is the ending"
+**Priya:** Things are going well. Her long sci-fi message is the real signal, and "busy haha" just means work isn't something she wants to chat about. Drop the work questions and stay on the books. The bookshop opener and the sci-fi topic both got long replies, so specific questions work better with her than general ones.
 
-After a couple of good messages on this, ask her out. A bookshop and then coffee fits everything you know: books, good coffee, no drinking, and it's easy to find something vegetarian. For example: "we should argue about this in person. bookshop then coffee, thursday?" Give her one day and one place.
+Some drafts in your voice. I don't know which books she named, so add those yourself:
+- "ok that's a serious list. if i could only read one, which one"
+- "honestly [book] sounds great. is it actually good or are you just loyal to it"
 
-**Chloe:** Let this one go. A one-line opener that got no reply usually just means it didn't land, so I wouldn't send another message. Want me to delete her entry or cut it down to just the lesson ("generic opener, no reply")? If you match with someone into running or true crime later, open with a question about that, something like "true crime podcast or true crime doc, pick one".
+After she replies to that, you've got an easy reason to ask her out. A bookshop and coffee suits her: she's into both, and she doesn't drink. Pick one day:
+- "we should settle the sci-fi thing in an actual bookshop. coffee after, saturday?"
+
+**Chloe:** Let her go. She didn't reply to the opener, so I won't suggest following up. Do you want me to delete her entry, or keep only the lesson ("generic opener, no reply")?
+
+For your next opener, use something from her profile instead of "how's your week". For example, with someone into true crime: "ok be honest, are you the friend who solves it by episode two". Specific questions are the only kind that have got you replies so far.
 
 ## Patterns
-You only have 2 matches, so this is an early hint, not a pattern yet:
-- **Got long replies:** questions about something she's into. With Priya that was the bookshop question and the sci-fi books.
-- **Fell flat:** generic check-ins like "how's your week" and "how's work". Neither got more than a short answer.
+Two matches isn't a real pattern yet, but there is an early sign:
+- Generic small talk ("how's your week", "how's work been") fell flat 0 of 2 times.
+- Specific questions about her interests got long replies 2 of 2 times.
+
+I'll keep track of this as you add more matches.
 
 Drafts are a starting point. Send them in your own words.
 
@@ -108,47 +114,46 @@ Drafts are a starting point. Send them in your own words.
 
 ### Claude
 
-**Privacy:** This one's fictional, but with real chats, crop out her full name, photos and any personal details before sharing, and don't forward her messages to anyone.
-
-I used your log (`dating-log/matches/priya-hinge.md`) and your voice profile (`dating-log/me.md`).
+Privacy: Priya's messages are private, so keep her last name, photos, number and workplace out of anything you share, and don't forward her messages to anyone.
 
 ## Summary
-You matched today on Hinge. Your opener ("bookshop cafe or library with a vending machine") got a long reply and a question back. Your log says she then wrote a long message about her favourite sci-fi books. Your "how's work been" got "busy haha". Now she's asking for your top 3 sci-fi books, with a playful "I'm judging you".
+You matched with Priya on Hinge today. Your log says your bookshop "pick a side" opener got a long reply and a question back. Sci-fi then got another long message about her favourite books. Your "how's work been" got "busy haha". Now she's asking for your top 3 sci-fi books, playfully.
 
 ## Signals
-| | You | Her |
+| | You | Priya |
 |---|---|---|
-| Questions asked back | Opener, then "how's work" | Asked which bookshop you'd pick; now asking for your top 3 |
-| Effort | Short lines (your style) | Long replies on topics she likes; short on work |
-| Starting topics | You opened | She's now starting a new one (your books) |
-| Warmth | Dry, playful | "I'm judging you on this" is playful, mock-challenging teasing |
-| Future plans | None yet | None yet |
+| Questions back | Opener question; "how's work been" (fell flat) | Asked one back after your opener; now "tell me your top 3" |
+| Effort / length | Short, which fits your style | Long replies to the opener and on sci-fi (log) |
+| New topics | You started the chat | Sci-fi came up in her long message; this new challenge is hers |
+| Listening | Not visible in what I have | Building on a topic you share |
+| Warmth | Dry humour (profile) | "I'm judging you on this" is mock-confrontation, which is basically your "fight me" |
+| Future talk | None yet | None yet |
 
 ## Honest read (confidence: medium)
-She's clearly engaged when the topic is something she cares about. She writes long replies, asks you questions back, and now she's starting a playful topic herself. The "busy haha" doesn't mean she's cooling off; it just shows small talk doesn't do much for her. Confidence is medium, not high, because you only matched today and nobody has mentioned meeting yet. If she plays along when you suggest a bookshop meetup, that would push it to high.
+She's clearly engaged so far. She writes long replies, asks you things back, and has just opened a playful challenge, which is hard to read as simple politeness. Only "busy haha" was low effort, and that was a reply to generic small talk, not a sign of lost interest. Confidence is medium, not high, because all of this is from one day and I'm going on your log rather than the full thread. More back-and-forth like this would push it to high. Short, questionless replies would bring it down.
 
-**Should you ask her out now?** Almost. Answer her question properly first, because she asked it directly and she'll actually read your picks. The book topic leads naturally to a bookshop date, so you can hint at it in the same message or ask in your next one once she reacts to your list. It fits her well: bookshops and coffee are her things, and she doesn't drink.
+One flag: your voice profile lists climbing and ramen, not sci-fi. If you really read it, great. If you've only read a couple, don't fake a list. She's into this and will notice. Saying you've only read a little is fine, and can even be the joke.
 
-## Next move
-Your voice profile doesn't list any sci-fi books, so I've left blanks. Fill in your real top 3. If you haven't read much sci-fi, say so honestly; that's better than faking it with someone who knows the genre.
+## Next move: reply now, ask her out on the next turn
+Your answer to her question is the setup, so answer it first. Her reaction to your list is the natural moment to suggest a date: "settle this at [bookshop café], saturday?" Your log already notes that coffee and a bookshop fit her, and to skip bars since she doesn't drink. Inviting her in this same message also works (see Direct), but it's a bit early since you matched today.
 
-1. **Answer + light date hint (recommended)**
-   > "ok bracing for judgement. [book], [book], [book]. defend yourself at a bookshop this weekend"
+## Reply council (simulated in one reply; no subagent tool was available in this session)
+- **Playful:** "[book 1], [book 2], [book 3]. ok go, judge me"
+  Why: her mock-challenge is exactly your "fight me" humour. Picking a side got her biggest replies (log).
+- **Direct:** "[book 1], [book 2], [book 3]. want to judge me in person at [bookshop café] saturday?"
+  Why: it answers her question and ties the invite to what she likes (books and coffee, per the log). One day, one place, easy to say yes to.
+- **Careful:** "[book 1], [book 2], [book 3]. be gentle"
+  Why: short and low pressure. It answers and lets her keep the momentum.
+- **If you haven't read much sci-fi:** "honestly i've read like two. [book 1] and [book 2]. go easy"
+  Why: it's honest and self-deprecating, and it lets her recommend books, which she clearly loves.
 
-2. **Playful, answer only**
-   > "[book], [book], [book]. if you hate number three we can't be friends"
+**Judge's pick: Playful.** "[book 1], [book 2], [book 3]. ok go, judge me"
+Why: she's opened a game, and this plays along in your voice and keeps the invite for her reaction, when it'll feel natural instead of tacked on. If you'd rather move faster, Direct is a solid second, since her signals support it.
+Backups: the other options above.
 
-3. **Honest, if sci-fi isn't really your thing**
-   > "honestly i've read like two. [book] and [book]. fix me"
+Fill the [blanks] with books you've actually read. Use these as a starting point and make it sound like you.
 
-If she reacts well and the date hint didn't land, or you went with option 2 or 3, send something specific next:
-> "ok you clearly need to show me your shelf picks. bookshop + coffee saturday afternoon?"
-
-Pick a real bookshop with a café near you. It's vegetarian-friendly and there's no pressure to drink.
-
-Use these as a starting point and make it sound like you.
-
-Want me to update Priya's log with this exchange and your book picks once you've sent it?
+Want me to update Priya's log file once she replies?
 
 ## Files on disk after the last turn
 
@@ -158,14 +163,13 @@ Want me to update Priya's log with this exchange and your book picks once you've
 # Dating log
 | Match | App | Status | Last update | Next step |
 |---|---|---|---|---|
-| Priya | Hinge | talking | 2026-10-12 | ask about one of her sci-fi picks, then suggest bookshop + coffee |
-| Chloe | Bumble | ended (no reply) | 2026-10-12 | none; delete or keep the lesson only |
+| Priya | Hinge | talking | 2026-10-12 | reply on sci-fi books, then suggest bookshop + coffee |
+| Chloe | Bumble | ended (no reply) | 2026-10-12 | none, let it go |
 
 ## Patterns so far (updated as the log grows)
-- Openers that got replies: "pick a side" question tied to her interests (1 of 1)
-- Fell flat: generic "how's your week / how's work" questions (0 of 2 got more than a short answer: Chloe no reply, Priya "busy haha")
-- Landed: questions about something she's into (Priya: bookshops, sci-fi both got long replies)
-- Only 2 matches so far: not a pattern yet, just an early hint
+- Not enough data yet (2 matches). Patterns start once there are 3+ matches.
+- Openers so far: specific "pick a side" question tied to her profile -> reply (1 of 1); generic "hey how's your week" -> no reply (0 of 1)
+- Early signal: generic small talk ("how's your week", "how's work been") has fallen flat both times (0 of 2); specific interest-based questions got long replies (2 of 2)
 ```
 
 ### dating-log/matches/chloe-bumble.md
@@ -175,11 +179,11 @@ Want me to update Priya's log with this exchange and your book picks once you've
 - Matched: (unsure)
 - Status: ended (no reply to opener)
 - She's into: running, true crime
-- Responded well to: nothing yet
-- Fell flat: "hey how's your week" (no reply)
 - Opener used: "hey how's your week" -> no reply
+- Responded well to: nothing yet
+- Fell flat: generic "how's your week" opener (no reply)
 - Date ideas: none
-- Next step: none; let it go. Delete this entry or keep only the lesson
+- Next step: none, let it go. Offer to delete or keep only the lesson
 - Last updated: 2026-10-12
 ```
 
@@ -191,11 +195,11 @@ Want me to update Priya's log with this exchange and your book picks once you've
 - Status: talking
 - She's into: bookshops, good coffee, sci-fi books (has favourites, wrote a lot about them)
 - Practical notes: vegetarian; doesn't drink
-- Responded well to: the "bookshop cafe or library with a vending machine" question (long reply, asked one back); sci-fi books (long message about her favourites)
-- Fell flat: "how's work been" ("busy haha")
-- Opener used: "settle this: bookshop cafe or library with a vending machine" -> long reply same day, asked which bookshop he'd pick
-- Date ideas: none suggested yet (a bookshop cafe or coffee spot fits: no drinking, veggie-friendly)
-- Next step: reply to her sci-fi message with a specific question about one of her picks; skip work talk. Once that thread is going, suggest a bookshop + coffee (one day, one place)
+- Opener used: "settle this: bookshop cafe or library with a vending machine" -> long reply same day, asked one back
+- Responded well to: the bookshop "pick a side" opener (long answer + question back); sci-fi books (sent a long message about her favourites)
+- Fell flat: "how's work been" -> "busy haha"
+- Date ideas: none suggested yet (note: coffee/bookshop fits; skip bars)
+- Next step: reply to the sci-fi message (ask for a rec / pick-a-side on books), skip work small talk; then suggest a bookshop + coffee date
 - Last updated: 2026-10-12
 ```
 
@@ -206,23 +210,23 @@ Want me to update Priya's log with this exchange and your book picks once you've
 Last updated: 2026-10-12
 
 ## How I text
-- Tone: dry and playful, chill ("honestly the second one was better. fight me")
-- Length: short, about 5-9 words, one line per message
-- Case/punctuation: all lowercase, including "i". No exclamation marks. Commas and the odd full stop mid-message, no full stop at the end. Apostrophes kept ("i'm", "i'll")
-- Humour: absurd overstatement ("the bus has chosen violence") and mock-combative teasing ("fight me"), in about half of messages
-- Emoji: none (inferred, none in samples)
-- Phrases I use: "lol", "haha", "honestly", "i'm in", "fair", "fight me", "chosen violence"
-- Never use: "beautiful" as an opener, winky faces, exclamation marks; any emoji (inferred)
+- Tone: dry, playful, easygoing ("the bus has chosen violence")
+- Length: short, one line, about 6-10 words ("haha fair, i'll bring the board games")
+- Case/punctuation: all lowercase, even "i". No full stop at the end. Commas, plus an occasional mid-line full stop for timing ("honestly the second one was better. fight me")
+- Humour: deadpan exaggeration and mock-confrontation ("fight me"), often
+- Emoji: none (inferred from samples)
+- Phrases I use: "lol no way", "haha fair", "honestly", "i'm in", "fight me"
+- Never use: "beautiful" as an opener, winky faces, exclamation marks
 
 ## About me
 - Into: climbing, cooking ramen from scratch
-- Weekend: not stated yet
+- Weekend: not shared yet
 - Looking for: something serious, no rush
 - Deal-breakers / things I care about: smoking
-- Want to come across as: not stated yet (my texts read as dry and playful)
+- Want to come across as: not stated (samples read as funny and low-key)
 
 ## Sample lines in my voice (examples, not real messages)
-- "ok your ramen opinion is wrong but i respect the confidence"
-- "haha fair. climbing first, then i'm making broth for six hours"
-- "honestly that's the best answer i've had all week"
+- "ok the from-scratch ramen thing is real. the broth takes all day and i regret nothing"
+- "lol no way, you climb too? which gym"
+- "honestly tacos are the correct answer. fight me"
 ```

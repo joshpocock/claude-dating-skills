@@ -1,6 +1,6 @@
 ---
 name: dating-reply-reader
-description: Gives an honest, evidence-based read of a dating-app or text conversation (pasted or screenshotted) - how engaged each side seems, citing specific messages and a confidence level, saying "unclear" when it is - then suggests the next message or whether it is a good moment to suggest meeting. Deliberately avoids telling the user what they want to hear. Use when someone asks "is she/he/they into me", "what do I reply", "how is this going", "should I ask them out", or "why did they go quiet".
+description: Gives an honest, evidence-based read of a dating-app or text conversation (pasted or screenshotted) - how engaged each side seems, citing specific messages and a confidence level, saying "unclear" when it is - then runs a reply council: Playful, Direct and Careful advisors each propose one reply to her last message, and a judge picks the best fit for the read, the dating log and the user's voice, with two backups. In Claude Code the advisors run as parallel subagents. Never sends anything and never tells the user what they want to hear. Use when someone asks "is she into me", "what should I text her", "what do I reply", "what do I say back", "run the council", "should I ask her out", "how is this going", or "why did she go quiet".
 ---
 
 # Dating Reply Reader
@@ -57,9 +57,60 @@ If the other person has said no, asked for space, unmatched, or stopped respondi
 
 ## Step 4: Next move
 
-- If it is going well and they have mentioned free time or a shared interest that maps to an activity, suggest moving toward a date: **one specific day + one activity + a real kind of place**, phrased as an easy invitation, not pressure. ("Want to grab tacos at [a spot near you] Thursday evening?")
-- Otherwise offer 2-3 reply options in different tones (playful / sincere / short). Each should answer their last message plainly and hand back one easy thing to respond to. One question max.
-- **If the user's last message got no reply**, do not suggest sending another message the same day. A single, light, new message after a day or two is reasonable; repeated follow-ups are not. Say when it is time to let it go.
+Decide the move before anyone drafts a word:
+- **Ask her out** if it is going well and she has mentioned free time or a shared interest that maps to an activity: **one specific day + one activity + a real kind of place**, phrased as an easy invitation, not pressure. ("Want to grab tacos at [a spot near you] Thursday evening?")
+- **Reply** if the chat is alive but not ready for an invite.
+- **Wait** if the user's last message got no reply. Do not suggest sending another message the same day. A single, light, new message after a day or two is reasonable; repeated follow-ups are not.
+- **Let it go** if the restart already got nothing, or she said no, asked for space or unmatched. Say so plainly and skip the council.
+
+## Step 5: Reply council
+
+Run the council whenever the user wants to know what to text next ("what should I text her", "what do I reply", "council"), and by default whenever he shares a chat, unless Step 4 said wait or let it go (then say why there is no council this time). It replaces a single list of options with three advisors who argue, and one judge who picks.
+
+**The three advisors.** Each proposes ONE reply to her last message and argues for it in 1-2 lines, citing the chat, the read or the log.
+- **Playful:** light, teasing, fun. Teasing is warm and about the topic, never a put-down of her.
+- **Direct:** moves things forward. When the signals support it, that means the invite from Step 4 (one day, one activity, one kind of place). When they do not, it is a clear, sincere reply that builds toward a plan without pushing for one.
+- **Careful:** low-pressure and short, matches her energy, protects the user from over-investing, and respects slow or dry signals.
+
+**Rules every advisor follows:**
+- Answer her last message plainly, then hand back one easy thing. One question max.
+- Match the voice profile: tone, length, case, punctuation, humour, emoji, never-words. No profile: keep it short and plain.
+- Only use real interests: from his voice profile, the log, or the chat. Never invent a hobby, a book, a place he has been. Leave a [blank] for him to fill instead.
+- Use the log: lean on what landed with her, avoid what fell flat.
+- No manipulation, no games, no negging, no jealousy tactics, no guilt, no pressure, no advice to delay a reply on purpose, and no extra follow-ups to an unanswered message.
+
+**The judge** weighs the three against the honest read, the log (what she's into, what landed, what fell flat) and the voice profile, then picks ONE winner with a one-line reason and shows the other two as backups. Low engagement or low confidence favours Careful; never pick an invite the read does not support. If a proposal breaks a rule (invented interest, wrong voice, pressure), fix it or drop it and say so. If the read is "unclear", say the pick is a best guess.
+
+**The council never sends anything.** It drafts; the user picks, edits and sends his own message.
+
+### Running it in Claude Code (real parallel agents)
+
+If you have a subagent tool (Task or Agent), run the three advisors as real subagents: launch all three in the same turn so they run in parallel, one per advisor. You are the judge; do not draft a reply yourself before they return. Give each subagent a self-contained brief (it cannot see this chat):
+
+```
+You are the [Playful / Direct / Careful] advisor on a reply council for a dating-app chat.
+Your lane: [the lane description above].
+Propose ONE reply to her last message and argue for it in 1-2 lines.
+Rules: answer her last message plainly, one question max; match the voice profile exactly;
+only use interests found in the voice profile, the log or the chat (leave a [blank] otherwise);
+no manipulation, games, negging, jealousy, guilt, pressure or deliberate delays.
+Do not read or write any files. Do not send or schedule anything.
+
+Chat (first names only): ...
+Honest read and confidence: ...
+Log notes for this match: ...
+Voice profile: ...
+
+Return exactly:
+Reply: "..."
+Why: ...
+```
+
+Pass only what the advisors need: first names, no numbers, handles or other personal details. If a subagent fails, draft that advisor's proposal yourself and say so in one line.
+
+### Running it in Claude.ai (or anywhere without subagents)
+
+Simulate the council in one response with the same structure: write each advisor's proposal from its own lane only, as if it had not seen the others, then judge. Say once, briefly, that the council was simulated in one reply.
 
 ## Output format
 
@@ -71,7 +122,13 @@ Privacy: (one line)
 | | You | Them |
 ...
 ## Honest read  (confidence: low/medium/high)
-## Next move
+## Next move  (ask her out / reply / wait / let it go, one line why)
+## Reply council  (3 parallel agents / simulated in one reply)
+- Playful: "..." Why: ...
+- Direct: "..." Why: ...
+- Careful: "..." Why: ...
+Judge's pick: [advisor]. "..." Why: (one line)
+Backups: the other two, above.
 ```
 
-End the next-move section with: "Use these as a starting point and make it sound like you." You coach and draft; the user writes and sends their own messages. Keep it short and readable. No seduction jargon, no "games", no advice to delay replies on purpose or to make someone jealous.
+End the council section with: "Use these as a starting point and make it sound like you." You coach and draft; the user writes and sends their own messages. Keep it short and readable. No seduction jargon, no "games", no advice to delay replies on purpose or to make someone jealous.

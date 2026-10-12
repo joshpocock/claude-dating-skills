@@ -18,42 +18,36 @@ Chloe: gym mostly
 
 ## Output
 
-Privacy: Chloe's messages are private, so crop out her name, number, photos and personal details before sharing screenshots, and don't forward them to anyone.
+Privacy: Even in a made-up example, crop out names, numbers, photos and workplace details before you share a real chat, and don't forward her messages to other people.
 
 ## Summary
-You're carrying most of this conversation. You make jokes, ask questions, share stories and start new topics. Chloe answers each one with 1–3 words and hasn't asked you anything back. Your invitation ("You should come sometime!") got no reply, and you restarted the chat the next day.
+You've chatted about pineapple pizza, then a jazz bar you love, and you said she should come sometime. She didn't reply to that. The next day you started things up again, and she answered your two questions with two or three words each.
 
 ## Signals
-| | You | Them |
+| | You | Chloe |
 |---|---|---|
-| Questions asked | 4 ("what are you up to this weekend", "been to many jazz places", "how was your day", "what do you do for fun") | 0 |
-| Message length | One long paragraph about the jazz bar, plus several full sentences | "haha bold", "not really", "busy, work stuff", "gym mostly" |
-| Starts topics / restarts chat | All of them, including the next-day restart | None |
-| References what you said | Yes ("Bold but right") | Short reactions only, nothing she builds on |
-| Warmth | Playful and enthusiastic | "haha bold" is mildly friendly. Nothing after that |
-| Future plans | You raised the weekend and invited her | No response to the invite |
-| Timing | No timestamps, so I can't read anything into it | n/a |
+| Questions asked back | 4 ("up to this weekend?", "been to jazz places?", "how was your day?", "what do you do for fun?") | 0 |
+| Length / effort | One long paragraph, plus several medium messages | "haha bold", "not really", "busy, work stuff", "gym mostly" |
+| Starts topics / restarts | You started every topic and the next-day restart | None |
+| References what you said | You built on her answers | "haha bold" is a light reaction. Nothing else picks up your words |
+| Warmth | Enthusiastic, jokey | One "haha", otherwise neutral |
+| Future talk | "You should come sometime!" | No response to the invite |
 
 ## Honest read (confidence: medium)
-I can't honestly tell you she's into you, and it doesn't look like it's going really well yet. Right now she's friendly but not very invested, and you're doing most of the work. She hasn't asked a single question back. She skipped past the jazz bar story and didn't respond to "you should come sometime." Every reply is as short as it can be while still being polite. Answering politely isn't the same as being interested.
-
-She is still replying, and "busy, work stuff" could just mean she was busy, so I wouldn't call it a no. It's also a short chat, which is why my confidence is medium and not high.
-
-**What would change my read:** she asks you something back, sends a longer message, picks up a topic, or responds to a plan. If she does any of those, things are looking up. If the next couple of replies are still one or two words with no questions, she probably isn't very interested, and you'd be better off putting your energy elsewhere.
-
-**One thing on your side:** the jazz bar message was a big paragraph in reply to "haha bold." You also stacked an invite right after "not really." Try matching her energy a little more. Keep your messages short and give her an easy opening, not a lot to respond to.
+I wish I could tell you it's going really well, but right now the messages don't show that. She's polite and keeps answering, which is worth something. But she hasn't asked you a single question, every reply is a few words, and she didn't answer your invite to the jazz bar. You're carrying this conversation. Your jazz paragraph is part of the problem: it's long and asks her a question she can't say much about, so "not really" was the easy answer. She might just be busy or not much of a texter, and "busy, work stuff" fits that. I can't know which it is. Verdict: **friendly but not much investment yet.**
+**What would change the read:** she asks you something back, writes a longer reply, or starts a topic herself. Any of those would move this toward "engaged". Another round of two-word answers would make it "low engagement, you're carrying this."
 
 ## Next move
-Don't ask her out yet. One short reply that gives her an easy opening is enough:
+**Reply, but keep it short and easy.** She's still answering, so the chat isn't dead. She hasn't picked up the last invite, though, so don't push for a date yet.
 
-- **Playful:** "Respect. Are you a leg day enthusiast or someone who skips it and lies about it?"
-- **Sincere:** "Nice, that's a good way to switch off after work. What's your go-to workout?"
-- **Short:** "Ha, gym's my reset too after a long week"
+## Reply council (simulated in one reply, no voice profile or dating log found)
+- **Playful:** "ha, efficient answer. lifting or one of those classes where someone yells at you?" Why: it teases the topic, not her, and gives her an easy choice to answer.
+- **Direct:** "nice, respect that. I [blank: what you do for exercise, if anything]. what's your go-to workout?" Why: it shares something real about you and builds common ground for a plan later. Fill in the blank honestly or cut it. Don't invent a gym habit.
+- **Careful:** "nice, morning or evening gym person?" Why: it's as short as her messages, puts no pressure on her, and is an easy question to answer.
 
-(Only send the short one if the gym really is your thing. If it's not, pick another option.)
+**Judge's pick: Careful.** "nice, morning or evening gym person?" Why: with low engagement and an invite she didn't answer, matching her length is the best way to see if she starts putting in effort. If she replies with more than two words or asks you something, go with Playful's energy next.
+Backups: Playful and Direct, above.
 
-After that, let her carry the next part. If she replies with something more than a couple of words or asks you something back, keep going, and later you could suggest something concrete. If it's still "yeah" or "haha", don't keep firing off questions to fill the silence. Let it go and put your energy into matches who respond in kind.
-
-If you set up the dating-voice-profile and dating-logbook skills, I can match these drafts to how you actually text and keep track of how things go with Chloe.
+A couple more things. Hold off on asking her out until she starts asking you questions. Don't repeat the jazz invite. If this reply also gets a two-word answer with no question, slow down and let her come to you. Your dating-voice-profile and dating-logbook skills would make these drafts sound more like you.
 
 Use these as a starting point and make it sound like you.
