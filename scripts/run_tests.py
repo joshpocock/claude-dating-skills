@@ -80,8 +80,17 @@ def wrap(skill_text: str, message: str, tool_note: str) -> str:
     )
 
 
+def skill_text(path: pathlib.Path) -> str:
+    """SKILL.md plus any files in its references/ folder, the way Claude would read them on demand."""
+    text = path.read_text(encoding="utf-8")
+    for ref in sorted((path.parent / "references").glob("*.md")):
+        body = ref.read_text(encoding="utf-8")
+        text += "\n\n" + f'<file path="references/{ref.name}">' + "\n" + body + "\n</file>"
+    return text
+
+
 def run(inp: pathlib.Path) -> str:
-    skill = skill_for(inp.stem).read_text(encoding="utf-8")
+    skill = skill_text(skill_for(inp.stem))
     msg = inp.read_text(encoding="utf-8")
     if inp.stem.endswith("-web"):
         out = claude(wrap(skill, msg, "You may use web search. Do not use any other tools."), "WebSearch")
@@ -104,7 +113,7 @@ def run_session(folder: pathlib.Path) -> str:
     try:
         for turn in sorted(folder.glob("*.md")):
             skill_stem = turn.stem.split("-", 1)[1]
-            skill = skill_for(skill_stem).read_text(encoding="utf-8")
+            skill = skill_text(skill_for(skill_stem))
             msg = turn.read_text(encoding="utf-8")
             note = ("You are running in Claude Code in the user's project folder (the current working directory). "
                     "You may use the Read, Write, Edit and Glob tools there.")

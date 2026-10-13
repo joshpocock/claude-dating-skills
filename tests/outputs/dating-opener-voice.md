@@ -26,25 +26,23 @@ Her profile: Lena, 29, illustrator. Photos: (1) drawing at a cafe, (2) holding a
 ## Output
 
 ## What I'm working with
-- **Lena, 29, illustrator**
-- Photos: drawing at a cafe, holding a huge bowl of ramen, at a climbing wall
-- "Debate me on" → "cereal is a soup" (this prompt is asking for a reply)
-- "My simple pleasures" → "a new sketchbook and a rainy Sunday"
-- You share two interests with her: ramen (you make it from scratch) and climbing
-- Your log says "pick a side" debate openers got replies 3 times out of 4, and "how's your week going" got 0 out of 3, so I've left that one out
-- Best hook: "cereal is a soup." She's asking for a debate, and you can tie it to ramen
+- Lena, 29, illustrator.
+- Photos: (1) drawing at a cafe, (2) holding a huge bowl of ramen, (3) at a climbing wall.
+- Prompt "Debate me on": "cereal is a soup". She's openly asking for an argument.
+- Prompt "My simple pleasures": "a new sketchbook and a rainy Sunday."
+- You share two things with her: ramen (you make it from scratch) and climbing.
+- Your log says "pick a side" debates got replies 3 times out of 4, so I've built around that. Nothing here is a "how's your week" opener.
+- Best hook: the cereal-is-a-soup debate. She invited it, and it's the style that works best for you.
 
 ## Openers
-1. "ok but if cereal is a soup, is ramen just hot cereal?" (Pick a side)
-   Why: it takes up her debate, it's mock-serious in your style, and it brings in ramen, which you both like. This is the style that works best for you.
-2. "you strike me as someone with a ranked list of ramen spots" (Playful guess)
-   Why: it's a light guess based on her ramen photo. She can confirm it or correct it, and either way you can follow up with your from-scratch ramen.
-3. "what's the first thing that goes in a new sketchbook" (Curious specific)
-   Why: it's about her actual work and something she enjoys. It's warm, and she'll find it easy and pleasant to answer.
+1. "team not-soup here, soup has to be hot, make your case" - why: takes a clear side on her debate prompt and gives her an easy way to argue back (from #10, off her prompts)
+2. "fellow ramen nerd, is that bowl homemade or just a very good order?" - why: uses the real interest you share with her and asks something only a ramen person would ask (from #17 + #3, off her bio/photos)
+3. "counterpoint: if cereal is a soup, then ramen is breakfast, fight me" - why: builds on her joke with a twist that ties in her ramen photo, in your mock-serious "fight me" voice (from #8, off her prompts)
 
 ## My pick
-Number 1. She's literally asking for a debate, your log says this style works for you, and it gives you an easy way into ramen, which you both like. Save climbing for your second or third message.
+Number 1. She asked for a debate, and this style works best for you. It's short and dry, and it gives her an obvious next move: defend the soup.
 
-Use these as a starting point and make it sound like you. Tweak the wording before you send. Or tell me "shorter", "funnier", or "more sincere".
+## Next: Build
+If she argues back, keep the debate going for a message or two. Then move to ramen: you make it from scratch, she clearly loves it, and that's a natural thread to build on and later turn into a date.
 
-No opener guarantees a reply. Plenty of good messages go unanswered for reasons that have nothing to do with the message. If this turns into a conversation and you have dating-logbook installed, I can add what happened to your log.
+Use these as a starting point and make it sound like you - tweak the wording before you send. Or tell me "shorter", "funnier", or "more sincere". No opener guarantees a reply, and plenty of good messages go unanswered for reasons that have nothing to do with the message.

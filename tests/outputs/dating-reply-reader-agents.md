@@ -23,42 +23,44 @@ Sam: right?? the worse it is the funnier it gets. what are you up to this week
 
 ## Output
 
-Privacy: Sam is fictional here, but with a real match, crop out her full name, number, photos and workplace before sharing a chat, and don't forward her messages to anyone.
+Privacy: Sam's messages are private. Before sharing a screenshot, crop out their full name, number, photos and workplace, and don't forward the chat to anyone.
 
 ## Summary
-You opened with the "worst film you secretly love" question. Your log says that question landed before, and it landed again. Sam answered with her own pick, then on her own told you about her Thursday comedy open mic. She agreed with your joke and asked what you're up to this week.
+You opened with the "worst film you secretly love" question, which your log says Sam loved last time too. Sam answered with enthusiasm, then brought up a comedy open mic on Thursday without being asked. You agreed it sounds great, and Sam came back with "what are you up to this week".
 
 ## Signals
 | | You | Sam |
 |---|---|---|
-| Questions asked back | 1 (the film question) | 1 ("what are you up to this week") |
-| Effort | Short and matched | Sent two messages in a row and offered extra detail ("seen it like 15 times") |
-| New topics | The film question | The open mic, then your week |
-| Listening | You picked up her open mic | She built on your joke ("the worse it is the funnier it gets") |
-| Warmth | Goofy, on-brand | "omg", "right??", playful |
-| Future talk | None yet | Shared her Thursday plan and asked about your week |
+| Questions asked back | 1 (the opener) | 1 ("what are you up to this week") |
+| Length and effort | 2 short messages | 3 messages: answered your question with their own film, then added a new topic |
+| New topics | The opener | The open mic, offered unprompted |
+| Warmth | "elite entertainment honestly" | "omg", "like 15 times", "right??" |
+| Future talk | None yet | Named a day and an activity (Thursday, open mic), then asked about your week |
+| Listening | Picked up the open mic | Built on your "awful is elite" line |
 
-## Honest read (confidence: medium)
-She's clearly engaged. She gives more than she has to: an extra message, a plan you didn't ask about, and a question about your week. Your messages are short and match her energy, so nothing needs fixing on your side. The confidence is medium, not high, because it's only five messages. Seeing her answer an invite is what would firm it up. Be careful with one thing. Mentioning Thursday *might* be a hint, but it might just be news. That's unclear, so don't invite yourself along to her plan.
+## Honest read (confidence: medium-high)
+Sam is clearly engaged. They're matching and slightly beating your effort, opening new topics, and asking about your week after naming a plan of their own. Your messages are fine: short, warm and on-thread. One small miss: you didn't react to the dance movie, which was an easy hook. Confidence isn't "high" only because this is five messages long. Sam ignoring a clear invite, or giving shorter replies from here, would lower it.
 
-## Next move: ask her out
-She opened the door with "what are you up to this week", and your log says she likes board games. Answer her question, then make one specific, easy invite on a separate day.
+**Framework step: Ask.** At least four ask signals are there: Sam asks questions back, writes more than you, starts topics, and mentioned a day and an activity. "What are you up to this week" is an open door.
+
+## Next move: ask Sam out
+It's the right moment, and your log says Sam is into live comedy, so tie the invite to that.
 
 ## Reply council (3 parallel agents)
-- **Playful:** "Five-a-side tonight, then probably cooking a curry and rewatching a terrible alien film. Living the dream 😂 Would you want to grab a drink sometime next week?"
-  Why: Answers with your real interests and makes a self-deprecating callback to your film. *Judge's note: "sometime next week" is vague and "tonight" may not be true. The invite needs a day and a place.*
-- **Direct:** "Pretty quiet, mostly cooking a curry and five-a-side. Have fun at the open mic though! Want to get a drink and play some board games on [day]? 😂"
-  Why: Answers plainly, then makes one specific invite built on her board-game interest from the log, and leaves her Thursday alone. *Judge's note: the 😂 after an invite reads like you're laughing it off, so cut it.*
-- **Careful:** "Pretty chilled, just a five-a-side game and probably cooking a curry. Hope the open mic is a good kind of awful on Thursday 😂"
-  Why: Low pressure, no question, and lets her lead. *Judge's note: it's safe, but it leaves her open door unused. Her signals support an invite.*
+I edited all three drafts before showing them. Playful originally had two questions and two invites. Direct skipped Sam's question and offered two activities. Careful suggested coffee after an evening open mic, which is an odd fit. I also took out 😂 where it didn't fit, since your profile says you only use it now and then.
 
-**Judge's pick: Direct (tidied up).**
-"Pretty quiet week, mostly five-a-side and cooking a curry. Fancy a board game café on [day]?"
-Why: She's engaged, she asked about your week, and board games come straight from your log. This answers her and offers one day, one activity and one kind of place, without crowding her Thursday. Fill in a day you're actually free.
+- **Playful:** "Mostly [blank], nothing as glamorous as watching a dance movie for the 15th time. Any room for one more at the open mic Thursday, or is it a strictly-friends heckling squad? 😂"
+  Why: The tease is about the film, not Sam, and it rides the plan Sam brought up.
+- **Direct:** "Not much, mostly [blank]. Fancy finding our own gloriously awful comedy night at [a comedy spot near you] next [day]?"
+  Why: It answers Sam's question, and the invite has one day, one activity and one place, all tied to the shared thread and Sam's love of live comedy.
+- **Careful:** "Pretty quiet, mostly [blank]. Fancy a drink one evening next week so you can give me the full open mic review?"
+  Why: It's low-key and easy to decline, and it doesn't assume Sam wants company on Thursday.
 
-**Backups:** Playful's version works if you'd rather keep the goofy tone. Swap "sometime next week" for "[day] at a board game café". Careful is the fallback if you don't feel ready to ask yet.
+**Judge's pick: Direct.** "Not much, mostly [blank]. Fancy finding our own gloriously awful comedy night at [a comedy spot near you] next [day]?"
+Why: The read supports an ask, and this one uses what your log says Sam likes. It also gives you a first date of your own rather than tagging along to a plan Sam may have made with friends.
+Backups: Playful and Careful, above. Use Playful if you'd rather join Thursday. Use Careful if a drink feels easier than booking a show.
 
-Use these as a starting point and make it sound like you. If she says yes, I can update Sam's file in your dating log with the dating-logbook skill.
+Fill in the [blanks] with your real plans, an actual venue and a day. Use these as a starting point and make it sound like you.
 
 ---
 Tool log: 3 subagent(s) launched in 1 assistant message(s) (parallel).

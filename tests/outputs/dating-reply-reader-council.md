@@ -33,39 +33,41 @@ Tess: ok that's honestly impressive. I'd need proof before I believe it though
 
 ## Output
 
-Privacy: Tess's messages are private. Crop out her full name, number, photos and workplace before sharing, and don't forward the chat to anyone.
+Privacy: Tess's messages are private. Crop out her full name, photos and other details before you share screenshots, and don't forward her messages to anyone.
 
 ## Summary
-You opened with a mock-serious ramen opinion. Tess replied twice in a row: first a joke tying it back to her sourdough starter, then a sincere question about whether you really make it from scratch. You said yes and added a funny detail. She called it impressive and playfully asked for proof. It's the same food-debate territory your log says she enjoyed before.
+Your mock-serious "fight me" about ramen broth landed. Tess answered with caps, linked it to her sourdough starter, then sent a second message asking if you really make it from scratch. She ended with "I'd need proof before I believe it though." It's the same kind of food debate your log says worked before (bread vs noodle).
 
 ## Signals
 | | You | Tess |
 |---|---|---|
-| Questions asked | None in this stretch | "wait do you actually make it from scratch" |
-| Effort/length | Short and in character | Matched you, and sent two messages in a row |
-| Listening | Answered her question with a vivid detail (the neighbours) | Linked your broth to her starter ("takes less looking after than that") |
-| Warmth | Dry humour | Caps enthusiasm ("12 HOURS??"), "honestly impressive" |
-| Future talk | None yet | "I'd need proof": a playful opening, though not a plan |
-| Log context | — | Food debates landed before. Generic small talk fell flat. |
+| Questions asked back | None in this stretch (fine, you were answering hers) | "wait do you actually make it from scratch" |
+| Effort / length | Short, in your voice | Two messages in a row, caps ("12 HOURS??") |
+| Starting topics | You started the ramen thread | She linked it to her starter, which is her own interest |
+| Listening | You answered her question directly | She picked up "12 hours" and "from scratch" |
+| Warmth | Dry humour ("my neighbours hate me") | "honestly impressive", playful doubt |
+| Future talk | None yet | "I'd need proof", close to a "we should" |
+| Timing | No timestamps, so no read | No timestamps, so no read |
 
 ## Honest read (confidence: medium)
-She seems clearly engaged. She double-texted, asked a real follow-up question, tied the topic back to her own interest, and ended on a challenge that keeps things going. "I'd need proof" is the closest thing to an opening so far. The evidence is thin, though: it's five messages and she hasn't mentioned when she's free. My confidence would go up if she says yes to a concrete plan or shares her availability. It would go down if her next replies get short or skip your question.
+She's clearly engaged in this thread. She asks questions, brings in her own interests, sends two messages in a row and gives you an opening with "I'd need proof." Your messages aren't the problem: they're short, specific and sound like you. Confidence is medium, not high, because this is a short excerpt, there are no timestamps, and she hasn't mentioned when she's free. What would raise it: she says yes or suggests another day. What would lower it: a vague "haha maybe" with no alternative.
 
-## Next move: ask her out, lightly
-She asked for proof and the shared interest (food) maps easily to an activity. Keep the first date somewhere public. A ramen spot works better than inviting her to your flat for the 12-hour broth.
+Framework step: **Ask.** At least two ask signals are there: she asks questions back, she matches or beats your effort, and "I'd need proof" works like a soft "we should." The food debate is your shared thread.
+
+## Next move
+**Ask her out.** She practically set it up. Make it one day, one activity and one public place. A first date shouldn't be at your flat, so save the 12-hour broth for later.
 
 ## Reply council (simulated in one reply)
-- **Playful:** "deal. sunday i send broth photos, you send starter photos, loser concedes"
-  Why: It turns her "proof" into a bread-vs-noodle rivalry, which is the kind of debate your log says landed.
-- **Direct:** "fair. come do quality control at [ramen spot] thursday, i'll bring opinions"
-  Why: She asked for proof and the chat is warm. This turns it into one day, one activity and one real place, in your mock-serious voice.
-- **Careful:** "fair. photo evidence incoming sunday. does the starter have a name"
-  Why: It's low-pressure and asks one easy question about something she cares about. Use it if you'd rather build a bit more before inviting her.
+- **Playful:** "the court only accepts tasting as evidence. ramen at [spot near you] thursday"
+  Why: Plays along with her "proof" bit in your mock-serious voice and turns it into an invite, the same kind of food debate your log says she liked.
+- **Direct:** "fair, field research then. ramen at [spot near you] thursday evening?"
+  Why: A clean answer to "I'd need proof" with one day, one activity and one kind of place. It's short, lowercase and easy to say yes to or offer another day.
+- **Careful:** "fair, sunday i'll send photographic evidence. does your starter have a name?"
+  Why: Keeps the thread going without asking yet, in case you're unsure. It brings in her starter, which is her interest, and stays well away from the "how was your weekend" kind of question that fell flat.
 
-**Judge's pick: Direct.** "fair. come do quality control at [ramen spot] thursday, i'll bring opinions"
-Why: She gave you the opening herself, and it fits your voice: lowercase, no full stop at the end, 11 words, dry. Because the thread is short, this pick has medium confidence. If you're unsure, Careful is the safe fallback.
-Backups: Playful and Careful, above.
+**Judge's pick: Direct.** "fair, field research then. ramen at [spot near you] thursday evening?"
+Why: The ask signals are there and she gave you the opening. Direct is the clearest invite in your voice, and it doesn't lean on a courtroom bit that could feel forced. Pick a real ramen place near you and a day you're actually free. If she says yes, confirm the time and place and save the rest for the date.
+
+Backups: Playful and Careful, above. Careful is the fallback if you'd rather build a bit longer first.
 
 Use these as a starting point and make it sound like you.
-
-If you have the dating-logbook skill, you could note in Tess's entry that she asked for "proof" and engaged warmly with the ramen topic.

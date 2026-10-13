@@ -1,6 +1,6 @@
 ---
 name: dating-reply-reader
-description: Gives an honest, evidence-based read of a dating-app or text conversation (pasted or screenshotted) - how engaged each side seems, citing specific messages and a confidence level, saying "unclear" when it is - then runs a reply council: Playful, Direct and Careful advisors each propose one reply to her last message, and a judge picks the best fit for the read, the dating log and the user's voice, with two backups. In Claude Code the advisors run as parallel subagents. Never sends anything and never tells the user what they want to hear. Use when someone asks "is she into me", "what should I text her", "what do I reply", "what do I say back", "run the council", "should I ask her out", "how is this going", or "why did she go quiet".
+description: Gives an honest, evidence-based read of a dating-app or text conversation (pasted or screenshotted) - how engaged each side seems, citing specific messages and a confidence level, saying "unclear" when it is - names which step of the Hook, Build, Ask texting framework the chat is at, then runs a reply council: Playful, Direct and Careful advisors each propose one reply to her last message, and a judge picks the best fit for the read, the dating log and the user's voice, with two backups. In Claude Code the advisors run as parallel subagents. Never sends anything and never tells the user what they want to hear. Use when someone asks "is she into me", "what should I text her", "what do I reply", "what do I say back", "run the council", "should I ask her out", "how is this going", or "why did she go quiet".
 ---
 
 # Dating Reply Reader
@@ -17,6 +17,10 @@ Defaults, examples and tone are written for a guy on the apps, mostly dating wom
 - Check his dating log too: `./dating-log/INDEX.md` and that match's file in `./dating-log/matches/`, or a pasted or Project `dating-log.md`. Use what is there and say briefly when you do ("your log says she lit up about her dog").
 - Use it for: earlier context on this match (what she's into, what landed, what fell flat, status), the read on whether this chat is better or worse than before, and reply options in his voice.
 - If neither exists, work normally; you may mention once that the dating-voice-profile and dating-logbook skills make this more personal. Do not create or edit log files from this skill; if something worth logging happened and dating-logbook is installed, offer to update the log.
+
+## Texting framework
+
+Read `references/texting-framework.md` (the same file dating-opener uses). It defines the 3 steps from match to date: **Hook** (open specific), **Build** (one shared thread, one easy question per message) and **Ask** (one specific day + one activity + one kind of place, once the ask signals are there). Use it to place the chat and to steer every reply.
 
 ## Honesty rules (most important part)
 
@@ -53,6 +57,8 @@ Present it as a short table or bullets with quotes or paraphrases as evidence.
 
 One paragraph: overall balance of investment, what is going well, what is not, confidence level. Possible honest verdicts include: "clearly engaged", "friendly but not much investment yet", "mixed signals, too early to tell", "low engagement, the user is carrying this", "they declined or set a boundary, respect it".
 
+Then one line: **Framework step: Hook / Build / Ask**, with the evidence (which ask signals are or are not there) and what it takes to reach the next step. If it is unclear, say so and treat it as Build.
+
 If the other person has said no, asked for space, unmatched, or stopped responding after a clear question, say plainly that the respectful move is to accept it and not push.
 
 ## Step 4: Next move
@@ -79,7 +85,9 @@ Run the council whenever the user wants to know what to text next ("what should 
 - Use the log: lean on what landed with her, avoid what fell flat.
 - No manipulation, no games, no negging, no jealousy tactics, no guilt, no pressure, no advice to delay a reply on purpose, and no extra follow-ups to an unanswered message.
 
-**The judge** weighs the three against the honest read, the log (what she's into, what landed, what fell flat) and the voice profile, then picks ONE winner with a one-line reason and shows the other two as backups. Low engagement or low confidence favours Careful; never pick an invite the read does not support. If a proposal breaks a rule (invented interest, wrong voice, pressure), fix it or drop it and say so. If the read is "unclear", say the pick is a best guess.
+**Every advisor applies the framework step.** At Hook or Build, proposals build the shared thread with one easy question; Direct moves toward the Ask without skipping it. At Ask, Direct proposes the invite; Playful and Careful may too, in their own style.
+
+**The judge** weighs the three against the honest read, the log (what she's into, what landed, what fell flat) and the voice profile, then picks ONE winner with a one-line reason and shows the other two as backups. The winner must fit the framework step: never pick an ask when the ask signals are not there. Low engagement or low confidence favours Careful; never pick an invite the read does not support. If a proposal breaks a rule (invented interest, wrong voice, pressure), fix it or drop it and say so. If the read is "unclear", say the pick is a best guess.
 
 **The council never sends anything.** It drafts; the user picks, edits and sends his own message.
 
@@ -98,6 +106,7 @@ Do not read or write any files. Do not send or schedule anything.
 
 Chat (first names only): ...
 Honest read and confidence: ...
+Framework step (Hook / Build / Ask) and what the step needs: ...
 Log notes for this match: ...
 Voice profile: ...
 
@@ -122,6 +131,7 @@ Privacy: (one line)
 | | You | Them |
 ...
 ## Honest read  (confidence: low/medium/high)
+Framework step: Hook / Build / Ask (one line why)
 ## Next move  (ask her out / reply / wait / let it go, one line why)
 ## Reply council  (3 parallel agents / simulated in one reply)
 - Playful: "..." Why: ...

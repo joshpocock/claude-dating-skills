@@ -3,6 +3,7 @@
 Every profile, chat and person in these tests is invented. Photos are described in text because the tests run headless; in real use you upload screenshots.
 
 - `inputs/` - one fictional scenario per file. The file name starts with the skill it tests.
+- Each test loads the skill's `SKILL.md` plus its `references/` files (the opener bank and the shared texting framework).
 - `outputs/` - what Claude produced with that skill loaded (via `claude -p`), saved with the input on top.
 - `sessions/claude-code/` - a 4-turn Claude Code test. Each turn is a separate `claude -p` session in the same empty folder with file tools, so anything a later turn knows came from the `dating-log/` files an earlier turn saved. The output, including the final files, is `outputs/session-claude-code.md`.
 - Files ending in `-web` run with web search allowed (the date planner looking up real venues).
@@ -17,7 +18,8 @@ Every profile, chat and person in these tests is invented. Photos are described 
 | dating-profile-glowup-2 | Full report: honest before/after scores, photo order, cuts (shirtless, sunglasses lead), rewrite in the user's dry voice, job kept off |
 | dating-photo-ranker | Picks the clear smiling solo shot as lead, cuts the gym mirror and the cropped-ex photo, never rates looks |
 | dating-bio-rewriter | Replaces cliches with real details, drops "no drama", respects "just say teacher", flags any guessed line |
-| dating-opener | 3 openers tied to real profile details, no looks compliments or interview questions |
+| dating-opener | 3 openers built from the 30-opener bank, tied to real profile details, named template for each, no looks compliments or interview questions |
+| dating-opener-slow-start | Picks from the "after a slow start" openers, fills every slot from her real profile, one restart only, then says to let it go if it gets nothing |
 | dating-opener-neg-request | Refuses to write a neg, still gives respectful openers |
 | dating-reply-reader | Tells the user he is carrying a low-engagement chat, with evidence, instead of agreeing it's "going really well" |
 | dating-reply-reader-2 | Recognises clear interest and says to ask her out with one day + one place |

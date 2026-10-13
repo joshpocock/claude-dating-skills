@@ -16,34 +16,42 @@ Jess: lol maybe. I'm free most of Sunday if the pancake league gives you a day o
 
 ## Output
 
-Privacy: These are Jess's private messages. Crop out her full name, photos and anything that identifies her before you share a chat, and don't forward her messages to anyone.
+Privacy: Even with a fictional chat, the habit matters. Before sharing a real one, crop out her full name, number, photos and workplace, and don't forward her messages to anyone.
 
 ## Summary
-Jess started the conversation by asking about the pancake line on your profile. You answered with a good story: the roommate pancake-off, the 9-year-old judge, and being 3-7 down. She played along, then named a brunch place she wants to try. She also said she's free most of Sunday. (No voice profile or dating log was available, so these drafts use only the chat. The dating-voice-profile and dating-logbook skills would make them more personal.)
+Jess opened by asking about the "competitive pancakes" line on your profile. You told her about the pancake-off, and she teased you about the 3-7 record. Then she brought up the soufflé pancake place on Juniper herself. When you hinted she might need a scout, she said "lol maybe" and that she's free most of Sunday.
 
 ## Signals
 | | You | Jess |
 |---|---|---|
-| Questions asked | 1 ("Is that a hint that you need a scout") | 3 ("explain", "what's your signature move", "have you been?") |
-| Effort and length | Short, specific, funny | Short and engaged, and she sent two messages in a row once |
-| Starting topics | Responded to hers | Opened the chat and brought up the brunch place |
-| Listening | Picked up on her hint | Brought back your details ("3-7 is a cry for help", "the judge sounds ruthless") |
-| Warmth | Dry humour | Teasing, "lol", "I'd take brown butter over anything" |
-| Future plans | Hinted ("need a scout") | Named a place (souffle pancakes on Juniper) and her free time ("free most of Sunday") |
+| Questions asked | 1 ("Is that a hint…") | 3 ("explain", "signature move", "have you been?") |
+| Length and effort | Short and specific. You gave her real detail (the 9-year-old judge, 3-7, brown butter) | About the same length as yours. She double-texted with a new topic |
+| Starts topics | You played along with her lead | She opened, and she brought up the brunch place |
+| Listening | You picked up on her brunch mention | She called back to the judge, the brown butter and the "pancake league" |
+| Warmth | Light, self-deprecating | Teasing ("3-7 is a cry for help"), "lol", "I'd take brown butter over anything" |
+| Future talk | Hinted with "scout" | Named a place and an activity, said "maybe" to your hint, and offered a day (Sunday) |
 
 ## Honest read (confidence: high)
-She's clearly engaged, and this isn't just politeness. She named a specific place and told you when she's free. That's about as close to asking you out as someone can get without saying it. She's also building on your jokes instead of only answering them. Your side is good too: specific, funny and not over-long. My one note is that "Is that a hint…" made her do the work twice. She has now answered it, so it's on you to name a time. What would lower my confidence: if she stays vague after a concrete invite, or moves Sunday without offering another time.
+She's clearly engaged. She's asking questions, starting topics, matching your effort and joking with you. She also named a place, an activity and a day on her own. "I'm free most of Sunday" in reply to your scout hint is about as close to asking you out as she can get without saying it. Your own messages are good: short, specific, funny, and nothing to fix. It's not too soon. If you wait now, the thing you'd risk is losing the moment she just set up for you.
+
+**Framework step: Ask.** At least four ask signals are there: she asks questions back, starts topics, mentions a place and activity (soufflé pancakes on Juniper), and gives you a free day (Sunday). She has effectively hinted at meeting already.
 
 ## Next move: ask her out
-It isn't too soon. She gave you the day, the activity and the place. Reply with one day, one rough time and that spot. If the place is busy, check whether it takes reservations first.
+Make it concrete: Sunday, soufflé pancakes, the Juniper place, plus a time. One message, easy to say yes to or to move. If Sunday morning is when your real pancake-off happens, pick a time that works around it and fill it in.
 
-## Reply council (simulated in one reply: no tools were used)
-- **Playful:** "The league can spare me for one Sunday. Souffle pancakes on Juniper, I scout, you judge? Around [11]?" Why: It keeps your running joke going, makes her the judge, and pins down the day and a rough time.
-- **Direct:** "Then let's do it. Sunday around [11] at the souffle pancake place on Juniper?" Why: She already said yes in principle, so a plain, specific invite fits. It's easy to say yes or suggest another time.
-- **Careful:** "Ha, I think I can get the day off. Want to check it out Sunday?" Why: Low pressure and short. It leaves the time open for her to set.
+## Reply council (simulated in one reply)
+I didn't find a voice profile or dating log, so these copy the style of your messages in this chat: capitalised, no emojis, short, a bit dry. The dating-voice-profile and dating-logbook skills would make the drafts more personal.
 
-**Judge's pick: Playful.** "The league can spare me for one Sunday. Souffle pancakes on Juniper, I scout, you judge? Around [11]?" Why: The read is strong enough for a concrete invite. This one matches your dry, short style, and it ends the pancake bit with an actual plan. Careful is too loose for how warm she's been.
+- **Playful:** "The league can survive one forfeit. Souffle pancakes on Juniper, Sunday at [time]? Strictly for scouting purposes"
+  Why: It keeps the pancake-league joke she's been building on, and the invite is still specific (day, place, activity).
+- **Direct:** "Let's do it. The souffle pancake place on Juniper, Sunday at [time]?"
+  Why: She already gave you the place and the day, so the cleanest move is to confirm them and add a time.
+- **Careful:** "Sunday works. Juniper at [time]?"
+  Why: It's short and adds no pressure. But her energy is high, so this may read flatter than the chat so far.
 
-Backups: Direct and Careful, above.
+**Judge's pick: Playful.** "The league can survive one forfeit. Souffle pancakes on Juniper, Sunday at [time]? Strictly for scouting purposes"
+Why: It's a clear invite with a day, an activity and a place, and it stays in the joke she started, which suits how well things are going.
 
-Use these as a starting point and make it sound like you.
+**Backups:** Direct and Careful, above. If you'd rather not joke, use Direct.
+
+Use these as a starting point and make it sound like you. If she says yes, confirm the time and place, then save the rest of the conversation for the date.

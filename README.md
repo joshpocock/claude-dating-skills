@@ -1,6 +1,6 @@
 # Claude Dating Skills
 
-Nine free Claude skills that make online dating less painful: keep a private log of every match that gets smarter over time, make every draft sound like you, fix your profile, write better first messages, get an honest read on a chat, let a council of Claude agents debate what to text her next, plan the date at real places near her, and spot fake profiles and scams before they cost you anything.
+Nine free Claude skills that make online dating less painful: keep a private log of every match that gets smarter over time, make every draft sound like you, fix your profile, write better first messages from 30 openers, follow a 3-step texting framework from match to date, get an honest read on a chat, let a council of Claude agents debate what to text her next, plan the date at real places near her, and spot fake profiles and scams before they cost you anything.
 
 They work on the **free Claude plan** as uploaded skills, and in Claude Code.
 
@@ -17,14 +17,24 @@ They work on the **free Claude plan** as uploaded skills, and in Claude Code.
 | **dating-profile-glowup** (start here) | One screenshot, your whole profile fixed. Photo order, rewritten bio and prompts in your voice, before/after scores, top 3 changes for today. | "Glow up my Hinge profile" + your profile screenshots |
 | **dating-photo-ranker** | Ranks your photos, picks your lead, says what to cut and what to shoot next. Judges the photo, never your looks. | "Which of these should be my first photo?" |
 | **dating-bio-rewriter** | Rewrites your bio and prompt answers so they're specific and easy to message. Asks a few questions first, never makes things up. | "Rewrite my Bumble bio" + screenshot |
-| **dating-opener** | Reads a match's profile and writes 3 personalized openers (not "hey"), each with a reason, plus a top pick. | "What should I open with?" + their profile |
-| **dating-reply-reader** | An honest read of a conversation, with evidence and a confidence level, then a reply council: three advisors (Playful, Direct, Careful) each pitch one reply and a judge picks the best fit for the read, your log and your voice. See [The reply council](#the-reply-council). | "Is she into me? What should I text her?" + the chat |
+| **dating-opener** | Reads a match's profile and writes 3 personalized openers (not "hey"), each with a reason, plus a top pick. Comes loaded with [30 openers](skills/dating-opener/references/openers.md) grouped by situation, always filled in from her real profile, never sent as generic templates. | "What should I open with?" + their profile |
+| **dating-reply-reader** | An honest read of a conversation, with evidence and a confidence level, which step of the 3-step texting framework you're at, then a reply council: three advisors (Playful, Direct, Careful) each pitch one reply and a judge picks the best fit for the read, your log and your voice. See [The reply council](#the-reply-council). | "Is she into me? What should I text her?" + the chat |
 | **dating-date-planner** | Plans a first date from both your interests, area, budget and vibe, finds real current spots near her when web search is on (never invents a venue), and writes the invite (one day, one activity, one place). | "Plan a first date near her in East Austin, she's vegetarian, $40 budget" |
 | **dating-red-flags** | Checks a profile or chat for fake-profile, romance-scam and safety red flags and gives first-date safety tips. | "Is this a scam?" + the chat |
 
 Every skill checks for your voice profile and your log and uses them when they're there. Without them, each skill still works on its own.
 
 Each skill is a folder in [`skills/`](skills) with a `SKILL.md`.
+
+## The 3-step texting framework
+
+Every chat from match to date goes through three steps, and the opener and reply reader both use them ([the framework](shared/texting-framework.md)):
+
+1. **Hook:** open specific. One real detail from her profile and one easy thing to reply to. dating-opener writes this step, starting from its bank of 30 openers (off her photos, off her prompts, off her bio, a playful fallback, and one restart after a slow start).
+2. **Build:** one shared thread and one easy question per message. Give, then ask. Match her energy.
+3. **Ask:** once she's asking back, writing as much as you and mentioning free time or places, suggest one specific day, one activity and one kind of place.
+
+dating-reply-reader tells you which step a chat is at and what it takes to reach the next one, and the reply council's advisors and judge write for that step, so nobody jumps to an ask the chat isn't ready for. Claude drafts, you make it yours and send it.
 
 ## The reply council
 

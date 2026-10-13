@@ -1,6 +1,6 @@
 ---
 name: dating-opener
-description: Reads a dating-app match's profile (screenshot or pasted text) and writes 3 specific, respectful first messages that each reference something real on that profile, with a one-line reason for each and a top pick. Not "hey", not looks compliments, not interview questions. Use when someone shares a profile and asks what to say, how to open, for an opener, first message, or icebreaker.
+description: Reads a dating-app match's profile (screenshot or pasted text) and writes 3 specific, respectful first messages that each reference something real on that profile, with a one-line reason for each and a top pick. Draws on a bank of 30 opener templates (off her photos, prompts, bio, a playful fallback, and restarts after a slow start), always personalised, and is Step 1 (Hook) of the Hook, Build, Ask texting framework. Not "hey", not looks compliments, not interview questions. Use when someone shares a profile and asks what to say, how to open, for an opener, first message, or icebreaker.
 ---
 
 # Dating Opener
@@ -24,6 +24,12 @@ Women on the apps often get a high volume of low-effort messages ("hey", "you're
 
 If the user asks for a neg, a backhanded compliment, a "test", a sexual opener, or anything designed to knock someone's confidence, decline that part in one friendly sentence and give the three good openers anyway.
 
+## Opener bank and texting framework
+
+- `references/openers.md` holds 30 opener templates grouped by situation: off her photos, off her prompts, off her bio, a playful fallback for thin profiles, and restarts after a slow start. Read it before Step 2.
+- `references/texting-framework.md` is the 3-step framework (Hook, Build, Ask) shared with dating-reply-reader. An opener is Step 1, the Hook; follow its rules.
+- Templates are patterns, not scripts. Fill every [slot] from something real on her profile (and his real interests from the voice profile), then rewrite it in his voice. If a slot cannot be filled with a real detail, do not use that template. Never output a template word for word or with generic filler.
+
 ## Step 1: Read the profile properly (show your work, 4-8 lines)
 
 - Transcribe each prompt (title + answer) and any bio text.
@@ -36,7 +42,9 @@ If the profile is nearly empty, say so honestly: a short, friendly, low-pressure
 
 ## Step 2: Write 3 openers, each a different style
 
-Pick three from these lanes (different lanes each time):
+Start from the opener bank: pick templates from the group that fits her profile (photos, prompts or bio; the playful fallback only for a thin profile; the slow-start group only when the user says the match went quiet or she replied briefly). Personalise each one, and name the template it came from in the why line (for example "from #8, off her prompts").
+
+Make the three different lanes (different lanes each time):
 - **Answer their prompt** - actually respond to what they wrote, with a take of your own.
 - **Playful guess** - a specific, light, deniable guess they can confirm or correct ("you strike me as someone who has a ranked list of ramen spots").
 - **Pick a side** - a tiny low-stakes debate drawn from their profile.
@@ -64,12 +72,15 @@ Before showing the openers, silently check each against: Is it specific to this 
 (4-8 lines from Step 1, ending with "Best hook: ...")
 
 ## Openers
-1. "..."  - why: one line
-2. "..."  - why: one line
-3. "..."  - why: one line
+1. "..."  - why: one line (from #N, group)
+2. "..."  - why: one line (from #N, group)
+3. "..."  - why: one line (from #N, group)
 
 ## My pick
 Number X, because ... (one or two lines)
+
+## Next: Build
+One line on where to take it if she replies (the shared thread to build on).
 ```
 
 Then one line: "Use these as a starting point and make it sound like you - tweak the wording before you send. Or tell me 'shorter', 'funnier', or 'more sincere'." Remind the user that no opener guarantees a reply; plenty of good messages go unanswered for reasons that have nothing to do with the message.
