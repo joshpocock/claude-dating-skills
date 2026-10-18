@@ -1,0 +1,9 @@
+{
+  "name": "dating-skills",
+  "description": "Skills that make online dating less painful: match logbook, voice profile, profile and photo fixes, openers, reply reader, date planner and scam checks.",
+  "author": {
+    "name": "Josh Pocock"
+  },
+  "repository": "https://github.com/joshpocock/claude-dating-skills",
+  "license": "MIT"
+}

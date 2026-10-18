@@ -1,0 +1,13 @@
+{
+  "name": "dating-skills",
+  "owner": {
+    "name": "Josh Pocock"
+  },
+  "description": "Free Claude skills for online dating.",
+  "plugins": [
+    {
+      "name": "dating-skills",
+      "source": "./"
+    }
+  ]
+}

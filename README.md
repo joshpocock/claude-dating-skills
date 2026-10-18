@@ -77,7 +77,22 @@ Claude.ai takes one skill per zip, so upload them individually. `claude-dating-s
 
 ### Claude Code
 
-Copy the folders into your skills directory:
+Install all nine skills as a plugin (Claude Code 2.1.275 or later):
+
+```
+/plugin install dating-skills --marketplace joshpocock/claude-dating-skills
+```
+
+On older versions, add the marketplace first:
+
+```
+/plugin marketplace add joshpocock/claude-dating-skills
+/plugin install dating-skills@dating-skills
+```
+
+Then ask Claude Code naturally ("rank my dating photos" with image paths), or call a skill by name with the plugin prefix, e.g. `/dating-skills:dating-opener`.
+
+Or copy the folders into your skills directory (no prefix, no updates):
 
 ```bash
 git clone https://github.com/joshpocock/claude-dating-skills.git
@@ -86,8 +101,6 @@ cp -r claude-dating-skills/skills/* ~/.claude/skills/
 # or just one project:
 cp -r claude-dating-skills/skills/* your-project/.claude/skills/
 ```
-
-Then ask Claude Code naturally ("rank my dating photos" with image paths) or call a skill by name.
 
 ### Rebuild the zips
 
